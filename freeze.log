@@ -1,0 +1,3583 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\test_bigbox\gamename\excessiveplus\g_needpass\0\xp_version\2.3\xp_date\Jun 20 2014\Uptime\0:00:00
+  0:00 ServerTime: 20141228120702 12:07:02 (28 Dec 2014)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3\xp_date\Jun 20 2014\Uptime\0:00:00
+  0:00 ServerTime: 20141228120702 12:07:02 (28 Dec 2014)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:10 Rcon: addbot Orbb 2.000000 blue 0
+  0:10 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:10 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:10 ClientBegin: 0
+  0:10 Rcon: addbot Daemia 2.000000 red 0
+  0:10 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:10 ClientUserinfoChanged: 1 n\Daemia\t\1\ts\0\model\major/daemia\hmodel\major/daemia\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:10 ClientBegin: 1
+  0:10 Warmup:
+  0:15 ShutdownGame:
+  0:15 ------------------------------------------------------------
+  0:15 ------------------------------------------------------------
+  0:15 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\0:00:14\Info\5	2	 	2 1 	2 2 	5 5 	
+  0:15 ServerTime: 20141228120716 12:07:16 (28 Dec 2014)
+  0:15 TeamName: 1 ^1RED
+  0:15 TeamName: 2 ^4BLUE
+  0:15 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:15 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:15 ClientBegin: 0
+  0:15 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:15 ClientUserinfoChanged: 1 n\Daemia\t\1\ts\0\model\major/daemia\hmodel\major/daemia\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:15 ClientBegin: 1
+  0:20 Rcon: addbot Lakerbot 2.000000 blue 0
+  0:20 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:20 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\2\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:20 ClientBegin: 2
+  0:20 Rcon: addbot gauntlet 2.000000 red 0
+  0:20 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:20 ClientUserinfoChanged: 3 n\^3Mr.^1Gauntlet\t\1\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:20 ClientBegin: 3
+  0:20 Kill: 1 0 10: Daemia killed Orbb by MOD_RAILGUN
+  0:20 Score: 1 1
+  0:21 sayteam: Orbb: who's the team leader 0
+  0:23 sayteam: Daemia: Who is the team leader 1
+  0:25 Kill: 2 1 10: ^6L^3akerbo^6T killed Daemia by MOD_RAILGUN
+  0:25 Score: 2 1
+  0:25 sayteam: ^6L^3akerbo^6T: who's the team leader 2
+  0:27 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  0:27 Score: 2 2
+  0:30 Rcon: addbot Razor 2.000000 blue 0
+  0:30 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:30 ClientUserinfoChanged: 4 n\Razor\t\2\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:30 ClientBegin: 4
+  0:30 Rcon: addbot Gorre 2.000000 red 0
+  0:30 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:30 ClientUserinfoChanged: 5 n\Gorre\t\1\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:30 ClientBegin: 5
+  0:30 sayteam: Orbb: I am the team leader 0
+  0:34 sayteam: Daemia: I'm the team leader 1
+  0:34 sayteam: ^3Mr.^1Gauntlet: Who is the team leader 3
+  0:36 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+  0:36 Score: 5 1
+  0:36 sayteam: Daemia: I'm the team leader 1
+  0:37 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+  0:37 Score: 4 1
+  0:40 Rcon: addbot Crash 2.000000 blue 0
+  0:40 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:40 ClientUserinfoChanged: 6 n\Crash\t\2\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:40 ClientBegin: 6
+  0:40 Rcon: addbot Slash 2.000000 red 0
+  0:40 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:40 ClientUserinfoChanged: 7 n\Slash\t\1\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  0:40 ClientBegin: 7
+  0:44 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+  0:44 Score: 7 1
+  0:45 sayteam: Slash: Who is the team leader 7
+  0:47 sayteam: Daemia: I'm the team leader 1
+  0:49 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+  0:49 Score: 7 2
+  0:52 TeamScore: 1 1 ^1RED
+  0:52 TeamScore: 2 0 ^4BLUE
+  0:55 sayteam: Crash: Is there a team leader 6
+  0:56 sayteam: Orbb: I'm the team leader 0
+  1:00 Kill: 1 4 10: Daemia killed Razor by MOD_RAILGUN
+  1:00 Score: 1 2
+  1:03 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+  1:03 Score: 6 1
+  1:10 Kill: 0 1 10: Orbb killed Daemia by MOD_RAILGUN
+  1:10 Score: 0 1
+  1:14 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  1:14 Score: 0 2
+  1:17 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+  1:17 Score: 5 2
+  1:21 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+  1:21 Score: 0 3
+  1:24 Kill: 2 6 0: ^6L^3akerbo^6T killed Crash by MOD_UNKNOWN
+  1:24 Score: 2 3
+  1:24 TeamScore: 1 1 ^1RED
+  1:24 TeamScore: 2 1 ^4BLUE
+  1:30 Kill: 6 1 10: Crash killed Daemia by MOD_RAILGUN
+  1:30 Score: 6 2
+  1:32 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  1:32 Score: 5 3
+  1:35 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  1:35 Score: 2 4
+  1:41 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+  1:41 Score: 6 3
+  1:48 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+  1:48 Score: 2 5
+  1:51 TeamScore: 1 1 ^1RED
+  1:51 TeamScore: 2 2 ^4BLUE
+  1:54 Kill: 6 1 10: Crash killed Daemia by MOD_RAILGUN
+  1:54 Score: 6 4
+  1:55 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  1:55 Score: 0 4
+  2:00 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  2:00 Score: 2 6
+  2:02 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+  2:02 Score: 4 2
+  2:05 TeamScore: 1 1 ^1RED
+  2:05 TeamScore: 2 3 ^4BLUE
+  2:09 Kill: 0 1 10: Orbb killed Daemia by MOD_RAILGUN
+  2:09 Score: 0 5
+  2:11 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+  2:11 Score: 2 7
+  2:14 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  2:14 Score: 2 8
+  2:16 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  2:16 Score: 2 9
+  2:19 TeamScore: 1 1 ^1RED
+  2:19 TeamScore: 2 4 ^4BLUE
+  2:23 Kill: 2 1 10: ^6L^3akerbo^6T killed Daemia by MOD_RAILGUN
+  2:23 Score: 2 10
+  2:26 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  2:26 Score: 6 5
+  2:29 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+  2:29 Score: 6 6
+  2:30 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  2:30 Score: 2 11
+  2:33 TeamScore: 1 1 ^1RED
+  2:33 TeamScore: 2 5 ^4BLUE
+  2:37 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  2:37 Score: 2 12
+  2:39 Kill: 6 1 10: Crash killed Daemia by MOD_RAILGUN
+  2:39 Score: 6 7
+  2:45 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  2:45 Score: 2 13
+  2:46 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+  2:46 Score: 5 4
+  2:46 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+  2:46 Score: 2 14
+  2:49 TeamScore: 1 1 ^1RED
+  2:49 TeamScore: 2 6 ^4BLUE
+  2:55 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+  2:55 Score: 5 5
+  3:04 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+  3:04 Score: 7 3
+  3:04 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  3:04 Score: 2 15
+  3:05 Kill: 1 2 10: Daemia killed ^6L^3akerbo^6T by MOD_RAILGUN
+  3:05 Score: 1 3
+  3:09 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+  3:09 Score: 6 8
+  3:14 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+  3:14 Score: 5 6
+  3:17 TeamScore: 1 2 ^1RED
+  3:17 TeamScore: 2 6 ^4BLUE
+  3:21 Kill: 1 0 10: Daemia killed Orbb by MOD_RAILGUN
+  3:21 Score: 1 4
+  3:28 Kill: 1 2 10: Daemia killed ^6L^3akerbo^6T by MOD_RAILGUN
+  3:28 Score: 1 5
+  3:35 Kill: 3 4 2: ^3Mr.^1Gauntlet killed Razor by MOD_GAUNTLET
+  3:35 Score: 3 1
+  3:44 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+  3:44 Score: 5 7
+  3:47 TeamScore: 1 3 ^1RED
+  3:47 TeamScore: 2 6 ^4BLUE
+  3:53 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+  3:53 Score: 5 8
+  3:54 Kill: 1 0 10: Daemia killed Orbb by MOD_RAILGUN
+  3:54 Score: 1 6
+  3:58 Kill: 1 2 10: Daemia killed ^6L^3akerbo^6T by MOD_RAILGUN
+  3:58 Score: 1 7
+  4:13 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+  4:13 Score: 7 4
+  4:16 TeamScore: 1 4 ^1RED
+  4:16 TeamScore: 2 6 ^4BLUE
+  4:22 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+  4:22 Score: 7 5
+  4:22 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  4:22 Score: 0 6
+  4:24 Kill: 1 0 10: Daemia killed Orbb by MOD_RAILGUN
+  4:24 Score: 1 8
+  4:26 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+  4:26 Score: 5 9
+  4:30 Kill: 6 1 10: Crash killed Daemia by MOD_RAILGUN
+  4:30 Score: 6 9
+  4:30 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+  4:30 Score: 5 10
+  4:33 Kill: 5 1 0: Gorre killed Daemia by MOD_UNKNOWN
+  4:33 Score: 5 11
+  4:33 TeamScore: 1 5 ^1RED
+  4:33 TeamScore: 2 6 ^4BLUE
+  4:40 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+  4:40 Score: 7 6
+  4:45 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+  4:45 Score: 5 12
+  4:46 Kill: 2 1 10: ^6L^3akerbo^6T killed Daemia by MOD_RAILGUN
+  4:46 Score: 2 16
+  4:46 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  4:46 Score: 6 10
+  4:49 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+  4:49 Score: 2 17
+  4:53 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  4:53 Score: 2 18
+  4:56 TeamScore: 1 5 ^1RED
+  4:56 TeamScore: 2 7 ^4BLUE
+  5:04 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  5:04 Score: 0 7
+  5:05 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+  5:05 Score: 5 13
+  5:06 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+  5:06 Score: 0 8
+  5:10 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+  5:10 Score: 0 9
+  5:21 Kill: 1 0 10: Daemia killed Orbb by MOD_RAILGUN
+  5:21 Score: 1 9
+  5:26 Kill: 2 1 10: ^6L^3akerbo^6T killed Daemia by MOD_RAILGUN
+  5:26 Score: 2 19
+  5:29 TeamScore: 1 5 ^1RED
+  5:29 TeamScore: 2 8 ^4BLUE
+  5:33 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+  5:33 Score: 4 3
+  5:33 Kill: 0 1 10: Orbb killed Daemia by MOD_RAILGUN
+  5:33 Score: 0 10
+  5:41 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  5:41 Score: 0 11
+  5:42 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+  5:42 Score: 7 7
+  5:51 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+  5:51 Score: 7 8
+  6:03 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  6:03 Score: 2 20
+  6:06 TeamScore: 1 5 ^1RED
+  6:06 TeamScore: 2 9 ^4BLUE
+  6:11 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+  6:11 Score: 0 12
+  6:11 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+  6:11 Score: 4 4
+  6:21 Kill: 1 4 10: Daemia killed Razor by MOD_RAILGUN
+  6:21 Score: 1 10
+  6:23 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  6:23 Score: 6 11
+  6:24 Kill: 0 1 10: Orbb killed Daemia by MOD_RAILGUN
+  6:24 Score: 0 13
+  6:27 TeamScore: 1 5 ^1RED
+  6:27 TeamScore: 2 10 ^4BLUE
+  6:35 Kill: 1 4 10: Daemia killed Razor by MOD_RAILGUN
+  6:35 Score: 1 11
+  6:37 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+  6:37 Score: 6 12
+  6:46 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+  6:46 Score: 7 9
+  6:48 Kill: 3 6 2: ^3Mr.^1Gauntlet killed Crash by MOD_GAUNTLET
+  6:48 Score: 3 2
+  6:58 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+  6:58 Score: 7 10
+  7:01 TeamScore: 1 6 ^1RED
+  7:01 TeamScore: 2 10 ^4BLUE
+  7:06 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  7:06 Score: 5 14
+  7:10 Kill: 4 1 10: Razor killed Daemia by MOD_RAILGUN
+  7:10 Score: 4 5
+  7:13 Kill: 3 4 2: ^3Mr.^1Gauntlet killed Razor by MOD_GAUNTLET
+  7:13 Score: 3 3
+  7:17 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+  7:17 Score: 7 11
+  7:20 Kill: 3 6 2: ^3Mr.^1Gauntlet killed Crash by MOD_GAUNTLET
+  7:20 Score: 3 4
+  7:23 TeamScore: 1 7 ^1RED
+  7:23 TeamScore: 2 10 ^4BLUE
+  7:30 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  7:30 Score: 5 15
+  7:36 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+  7:36 Score: 5 16
+  7:37 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+  7:37 Score: 6 13
+  7:40 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  7:40 Score: 2 21
+  7:41 Kill: 1 2 10: Daemia killed ^6L^3akerbo^6T by MOD_RAILGUN
+  7:41 Score: 1 12
+  7:42 Kill: 6 1 10: Crash killed Daemia by MOD_RAILGUN
+  7:42 Score: 6 14
+  7:45 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  7:45 Score: 6 15
+  7:48 TeamScore: 1 7 ^1RED
+  7:48 TeamScore: 2 11 ^4BLUE
+  7:53 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  7:53 Score: 5 17
+  7:54 ClientConnect: 8 \ip\91.226.165.84\guid\963841D8757ADD057BB8DF9C0DEAF3E6\tld\RU\country\Russian Federation
+  7:54 ClientUserinfoChanged: 8 n\^1Must^4die\t\3\ts\0\model\doom/blue\hmodel\doom/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+  8:00 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+  8:01 ClientGuid: 8 3BEE75BDD67DF83671276A4AE3D0D765
+  8:01 ClientUserinfoChanged: 8 n\^1Must^4die\t\3\ts\0\model\doom/blue\hmodel\doom/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+  8:01 ClientBegin: 8
+  8:03 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  8:03 Score: 2 22
+  8:06 Kill: 1 2 10: Daemia killed ^6L^3akerbo^6T by MOD_RAILGUN
+  8:06 Score: 1 13
+  8:08 Kill: 1 4 10: Daemia killed Razor by MOD_RAILGUN
+  8:08 Score: 1 14
+  8:10 Kill: 1 6 10: Daemia killed Crash by MOD_RAILGUN
+  8:10 Score: 1 15
+  8:12 ClientBegin: 8
+  8:12 ClientUserinfoChanged: 8 n\^1Must^4die\t\1\ts\0\model\doom/blue\hmodel\doom/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+  8:12 ClientUserinfoChanged: 8 n\^1Must^4die\t\1\ts\0\model\doom/blue\hmodel\doom/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\1
+  8:14 Kill: 0 1 10: Orbb killed Daemia by MOD_RAILGUN
+  8:14 Score: 0 14
+  8:14 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  8:14 Score: 5 18
+  8:17 TeamScore: 1 8 ^1RED
+  8:17 TeamScore: 2 11 ^4BLUE
+  8:20 ClientDisconnect: 1
+  8:20 Weapon_Stats: 1 Railgun:83:15:0:0 Hook:24:0:0:0 Given:3750 Recvd:3750 Armor:0 Health:0 TeamDmg:0
+  8:21 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+  8:21 Score: 7 12
+  8:21 Kill: 6 8 10: Crash killed ^1Must^4die by MOD_RAILGUN
+  8:21 Score: 6 16
+  8:24 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  8:24 Score: 6 17
+  8:26 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  8:26 Score: 5 19
+  8:28 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+  8:28 Score: 6 18
+  8:32 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+  8:32 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+  8:32 Score: 2 23
+  8:37 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  8:37 Score: 2 24
+  8:39 ClientDisconnect: 8
+  8:39 Weapon_Stats: 8 Railgun:1:0:0:0 Given:0 Recvd:250 Armor:0 Health:0 TeamDmg:0
+  8:39 ClientUserinfoChanged: 3 n\^3Mr.^1Gauntlet\t\1\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+  8:40 Rcon: addbot Phobos 2.000000 red 0
+  8:40 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:40 ClientUserinfoChanged: 1 n\Phobos\t\1\ts\0\model\doom/phobos\hmodel\doom/phobos\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+  8:40 ClientBegin: 1
+  8:45 Kill: 1 3 0: Phobos killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+  8:45 Score: 1 1
+  8:47 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+  8:47 Score: 6 19
+  8:52 sayteam: Phobos: who's the team leader 1
+  8:53 sayteam: ^3Mr.^1Gauntlet: I'm the team leader 3
+  9:01 Kill: 3 1 0: ^3Mr.^1Gauntlet killed Phobos by MOD_UNKNOWN
+  9:01 Score: 3 5
+  9:04 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  9:04 Score: 2 25
+  9:11 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+  9:11 Score: 2 26
+  9:14 TeamScore: 1 8 ^1RED
+  9:14 TeamScore: 2 12 ^4BLUE
+  9:20 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+  9:20 Score: 5 20
+  9:28 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+  9:28 Score: 5 21
+  9:29 Kill: 1022 6 16: <world> killed Crash by MOD_LAVA
+  9:29 Score: 6 18
+  9:35 Kill: 1022 6 0: <world> killed Crash by MOD_UNKNOWN
+  9:36 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+  9:40 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+  9:40 Score: 5 22
+  9:50 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+  9:50 Score: 2 27
+  9:55 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+  9:55 Score: 1 2
+  9:57 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+  9:57 Score: 2 28
+ 10:04 Kill: 2 6 0: ^6L^3akerbo^6T killed Crash by MOD_UNKNOWN
+ 10:04 Score: 2 29
+ 10:15 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 10:15 Score: 2 30
+ 10:16 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 10:16 Score: 7 13
+ 10:25 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 10:25 Score: 6 19
+ 10:28 TeamScore: 1 8 ^1RED
+ 10:28 TeamScore: 2 13 ^4BLUE
+ 10:32 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 10:32 Score: 2 31
+ 10:33 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 10:33 Score: 6 20
+ 10:37 Kill: 1 4 10: Phobos killed Razor by MOD_RAILGUN
+ 10:37 Score: 1 3
+ 10:40 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 10:40 Score: 1 4
+ 10:46 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 10:46 Score: 6 21
+ 10:50 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 10:50 Score: 2 32
+ 10:53 TeamScore: 1 8 ^1RED
+ 10:53 TeamScore: 2 14 ^4BLUE
+ 10:59 Kill: 4 1 10: Razor killed Phobos by MOD_RAILGUN
+ 10:59 Score: 4 6
+ 10:59 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 10:59 Score: 5 23
+ 11:04 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 11:04 Score: 2 33
+ 11:05 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 11:05 Score: 2 34
+ 11:07 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 11:07 Score: 2 35
+ 11:10 TeamScore: 1 8 ^1RED
+ 11:10 TeamScore: 2 15 ^4BLUE
+ 11:15 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 11:15 Score: 6 22
+ 11:19 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 11:19 Score: 0 15
+ 11:23 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 11:23 Score: 0 16
+ 11:24 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 11:24 Score: 1 5
+ 11:26 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 11:26 Score: 0 17
+ 11:29 TeamScore: 1 8 ^1RED
+ 11:29 TeamScore: 2 16 ^4BLUE
+ 11:38 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+ 11:38 Score: 7 14
+ 11:38 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 11:38 Score: 0 18
+ 11:40 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 11:40 Score: 5 24
+ 11:46 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 11:46 Score: 1 6
+ 11:50 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 11:50 Score: 1 7
+ 11:53 TeamScore: 1 9 ^1RED
+ 11:53 TeamScore: 2 16 ^4BLUE
+ 12:00 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 12:00 Score: 0 19
+ 12:01 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 12:01 Score: 2 36
+ 12:02 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 12:02 Score: 2 37
+ 12:03 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 12:03 Score: 4 7
+ 12:06 TeamScore: 1 9 ^1RED
+ 12:06 TeamScore: 2 17 ^4BLUE
+ 12:11 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 12:11 Score: 7 15
+ 12:12 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+ 12:12 Score: 4 8
+ 12:13 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 12:13 Score: 1 8
+ 12:15 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 12:15 Score: 1 9
+ 12:17 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+ 12:23 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 12:23 Score: 0 20
+ 12:29 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 12:29 Score: 0 21
+ 12:31 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 12:31 Score: 0 22
+ 12:34 TeamScore: 1 9 ^1RED
+ 12:34 TeamScore: 2 18 ^4BLUE
+ 12:43 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 12:43 Score: 2 38
+ 12:45 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 12:45 Score: 4 9
+ 12:49 Kill: 4 3 10: Razor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 12:49 Score: 4 10
+ 12:53 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+ 12:53 Score: 4 11
+ 12:56 TeamScore: 1 9 ^1RED
+ 12:56 TeamScore: 2 19 ^4BLUE
+ 13:02 Kill: 0 3 23: Orbb killed ^3Mr.^1Gauntlet by MOD_GRAPPLE
+ 13:02 Score: 0 23
+ 13:03 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 13:03 Score: 5 25
+ 13:03 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 13:03 Score: 2 39
+ 13:04 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 13:04 Score: 2 40
+ 13:06 Kill: 2 0 0: ^6L^3akerbo^6T killed Orbb by MOD_UNKNOWN
+ 13:06 Score: 2 41
+ 13:10 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 13:10 Score: 2 42
+ 13:13 TeamScore: 1 9 ^1RED
+ 13:13 TeamScore: 2 20 ^4BLUE
+ 13:21 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 13:21 Score: 5 26
+ 13:25 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 13:25 Score: 2 43
+ 13:25 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 13:25 Score: 6 23
+ 13:29 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 13:29 Score: 2 44
+ 13:30 Kill: 6 4 0: Crash killed Razor by MOD_UNKNOWN
+ 13:30 Score: 6 24
+ 13:30 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 13:30 Score: 2 45
+ 13:33 TeamScore: 1 9 ^1RED
+ 13:33 TeamScore: 2 21 ^4BLUE
+ 13:36 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 13:36 Score: 0 24
+ 13:36 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 13:36 Score: 1 10
+ 13:40 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 13:40 Score: 5 27
+ 13:41 Kill: 1 7 0: Phobos killed Slash by MOD_UNKNOWN
+ 13:41 Score: 1 11
+ 13:43 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 13:43 Score: 2 46
+ 13:46 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 13:46 Score: 2 47
+ 13:50 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 13:50 Score: 6 25
+ 13:50 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 13:50 Score: 7 16
+ 13:51 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 13:51 Score: 2 48
+ 13:54 TeamScore: 1 9 ^1RED
+ 13:54 TeamScore: 2 22 ^4BLUE
+ 14:02 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 14:02 Score: 0 25
+ 14:05 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 14:05 Score: 5 28
+ 14:07 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 14:07 Score: 6 26
+ 14:08 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 14:08 Score: 7 17
+ 14:13 Kill: 3 4 2: ^3Mr.^1Gauntlet killed Razor by MOD_GAUNTLET
+ 14:13 Score: 3 6
+ 14:14 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 14:14 Score: 7 18
+ 14:17 TeamScore: 1 10 ^1RED
+ 14:17 TeamScore: 2 22 ^4BLUE
+ 14:23 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 14:23 Score: 5 29
+ 14:25 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 14:25 Score: 7 19
+ 14:28 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 14:28 Score: 5 30
+ 14:34 Kill: 3 6 2: ^3Mr.^1Gauntlet killed Crash by MOD_GAUNTLET
+ 14:34 Score: 3 7
+ 14:37 TeamScore: 1 11 ^1RED
+ 14:37 TeamScore: 2 22 ^4BLUE
+ 14:40 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 14:40 Score: 2 49
+ 14:41 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 14:41 Score: 5 31
+ 14:43 Kill: 1 4 10: Phobos killed Razor by MOD_RAILGUN
+ 14:43 Score: 1 12
+ 14:45 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 14:45 Score: 0 26
+ 14:47 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 14:47 Score: 6 27
+ 14:48 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 14:48 Score: 7 20
+ 14:50 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 14:50 Score: 6 28
+ 14:53 TeamScore: 1 11 ^1RED
+ 14:53 TeamScore: 2 23 ^4BLUE
+ 15:01 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 15:01 Score: 6 29
+ 15:02 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 15:02 Score: 5 32
+ 15:03 Kill: 3 0 2: ^3Mr.^1Gauntlet killed Orbb by MOD_GAUNTLET
+ 15:03 Score: 3 8
+ 15:04 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 15:04 Score: 2 50
+ 15:06 Kill: 4 1 10: Razor killed Phobos by MOD_RAILGUN
+ 15:06 Score: 4 12
+ 15:09 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 15:09 Score: 2 51
+ 15:12 TeamScore: 1 11 ^1RED
+ 15:12 TeamScore: 2 24 ^4BLUE
+ 15:18 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 15:18 Score: 4 13
+ 15:19 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 15:19 Score: 0 27
+ 15:19 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 15:19 Score: 6 30
+ 15:21 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 15:21 Score: 6 31
+ 15:24 TeamScore: 1 11 ^1RED
+ 15:24 TeamScore: 2 25 ^4BLUE
+ 15:35 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 15:35 Score: 5 33
+ 15:37 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 15:37 Score: 7 21
+ 15:43 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+ 15:43 Score: 7 22
+ 15:51 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 15:51 Score: 7 23
+ 15:54 TeamScore: 1 12 ^1RED
+ 15:54 TeamScore: 2 25 ^4BLUE
+ 16:00 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 16:00 Score: 2 52
+ 16:01 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 16:01 Score: 2 53
+ 16:01 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 16:01 Score: 2 54
+ 16:01 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 16:01 Score: 5 34
+ 16:08 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 16:08 Score: 5 35
+ 16:15 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 16:15 Score: 6 32
+ 16:18 TeamScore: 1 12 ^1RED
+ 16:18 TeamScore: 2 26 ^4BLUE
+ 16:25 Kill: 0 3 10: Orbb killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 16:25 Score: 0 28
+ 16:27 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 16:27 Score: 0 29
+ 16:27 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+ 16:27 Score: 4 14
+ 16:32 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 16:32 Score: 0 30
+ 16:35 TeamScore: 1 12 ^1RED
+ 16:35 TeamScore: 2 27 ^4BLUE
+ 16:41 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 16:41 Score: 7 24
+ 16:45 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 16:45 Score: 2 55
+ 16:45 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 16:45 Score: 7 25
+ 16:48 Kill: 1 4 10: Phobos killed Razor by MOD_RAILGUN
+ 16:48 Score: 1 13
+ 16:48 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 16:48 Score: 1 14
+ 16:51 TeamScore: 1 13 ^1RED
+ 16:51 TeamScore: 2 27 ^4BLUE
+ 16:57 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 16:57 Score: 2 56
+ 16:57 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 16:57 Score: 5 36
+ 17:02 Kill: 1022 7 16: <world> killed Slash by MOD_LAVA
+ 17:02 Score: 7 24
+ 17:06 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 17:06 Score: 2 57
+ 17:08 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 17:14 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 17:14 Score: 7 25
+ 17:15 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+ 17:15 Score: 7 26
+ 17:15 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 17:24 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 17:24 Score: 5 37
+ 17:27 TeamScore: 1 14 ^1RED
+ 17:27 TeamScore: 2 27 ^4BLUE
+ 17:33 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 17:33 Score: 0 31
+ 17:35 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 17:35 Score: 5 38
+ 17:37 Kill: 1 4 10: Phobos killed Razor by MOD_RAILGUN
+ 17:37 Score: 1 15
+ 17:39 Kill: 5 7 0: Gorre killed Slash by MOD_UNKNOWN
+ 17:39 Score: 5 39
+ 17:42 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 17:42 Score: 2 58
+ 17:44 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 17:44 Score: 2 59
+ 17:51 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 17:51 Score: 7 27
+ 17:57 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 17:57 Score: 7 28
+ 18:00 TeamScore: 1 15 ^1RED
+ 18:00 TeamScore: 2 27 ^4BLUE
+ 18:06 Kill: 1022 7 16: <world> killed Slash by MOD_LAVA
+ 18:06 Score: 7 27
+ 18:06 Kill: 4 1 10: Razor killed Phobos by MOD_RAILGUN
+ 18:06 Score: 4 15
+ 18:12 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 18:17 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 18:17 Score: 5 40
+ 18:19 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 18:19 Score: 5 41
+ 19:31 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 19:38 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 19:38 Score: 2 60
+ 19:39 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 19:39 Score: 7 28
+ 19:40 Kill: 1022 6 0: <world> killed Crash by MOD_UNKNOWN
+ 19:41 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+ 19:41 Score: 4 16
+ 19:44 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+ 19:47 Kill: 4 1 10: Razor killed Phobos by MOD_RAILGUN
+ 19:47 Score: 4 17
+ 21:02 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 21:03 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 21:06 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 21:12 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 21:14 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 21:14 Score: 5 42
+ 21:16 Kill: 1022 3 16: <world> killed ^3Mr.^1Gauntlet by MOD_LAVA
+ 21:16 Score: 3 7
+ 21:22 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 21:22 Score: 1 16
+ 21:22 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 21:24 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 21:24 Score: 7 29
+ 21:28 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 21:28 Score: 5 43
+ 21:31 TeamScore: 1 16 ^1RED
+ 21:31 TeamScore: 2 27 ^4BLUE
+ 21:39 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 21:39 Score: 6 33
+ 21:40 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 21:40 Score: 7 30
+ 21:42 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 21:42 Score: 2 61
+ 21:44 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 21:44 Score: 1 17
+ 21:49 Kill: 3 7 0: ^3Mr.^1Gauntlet killed Slash by MOD_UNKNOWN
+ 21:49 Score: 3 8
+ 21:50 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 21:50 Score: 2 62
+ 21:55 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 21:55 Score: 2 63
+ 21:57 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 21:57 Score: 2 64
+ 22:00 TeamScore: 1 16 ^1RED
+ 22:00 TeamScore: 2 28 ^4BLUE
+ 22:07 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 22:07 Score: 7 31
+ 22:20 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 22:20 Score: 2 65
+ 22:23 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 22:23 Score: 5 44
+ 22:23 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 22:23 Score: 2 66
+ 22:38 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 22:38 Score: 5 45
+ 22:49 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 22:49 Score: 4 18
+ 23:01 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+ 23:01 Score: 4 19
+ 23:04 TeamScore: 1 16 ^1RED
+ 23:04 TeamScore: 2 29 ^4BLUE
+ 23:12 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 23:12 Score: 2 67
+ 23:13 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 23:13 Score: 0 32
+ 23:17 Kill: 2 3 10: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 23:17 Score: 2 68
+ 23:17 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 23:17 Score: 7 32
+ 23:21 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 23:21 Score: 2 69
+ 23:24 TeamScore: 1 16 ^1RED
+ 23:24 TeamScore: 2 30 ^4BLUE
+ 23:24 Exit: Fraglimit hit.
+ 23:24 red:16  blue:30
+ 23:24 score: 69  ping: 0  client: 2 ^6L^3akerbo^6T
+ 23:24 score: 45  ping: 0  client: 5 Gorre
+ 23:24 score: 33  ping: 0  client: 6 Crash
+ 23:24 score: 32  ping: 0  client: 0 Orbb
+ 23:24 score: 32  ping: 0  client: 7 Slash
+ 23:24 score: 19  ping: 0  client: 4 Razor
+ 23:24 score: 17  ping: 0  client: 1 Phobos
+ 23:24 score: 8  ping: 0  client: 3 ^3Mr.^1Gauntlet
+ 23:24 Weapon_Stats: 0 Railgun:160:31:0:0 Hook:47:1:0:0 Given:8050 Recvd:9150 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 1 Railgun:86:14:0:0 Hook:35:0:0:0 Given:3750 Recvd:6125 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 2 Railgun:232:66:0:0 Hook:66:0:0:0 Given:16625 Recvd:6125 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 3 Gauntlet:10:7:0:0 Given:2800 Recvd:9675 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 4 Railgun:152:20:0:0 Hook:46:0:0:0 Given:4875 Recvd:7450 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 5 Railgun:178:44:0:0 Hook:57:0:0:0 Given:10875 Recvd:9250 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 6 Railgun:156:34:0:0 Hook:64:0:0:0 Given:8500 Recvd:6950 Armor:0 Health:0 TeamDmg:0
+ 23:24 Weapon_Stats: 7 Railgun:180:34:0:0 Hook:67:0:0:0 Given:8500 Recvd:9000 Armor:0 Health:0 TeamDmg:0
+ 23:30 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 23:30 ClientUserinfoChanged: 1 n\Phobos\t\2\ts\0\model\doom/phobos\hmodel\doom/phobos\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\1
+ 23:30 ShutdownGame:
+ 23:30 ------------------------------------------------------------
+ 23:30 ------------------------------------------------------------
+ 23:30 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\0:23:29\Info\g2	3	g u	2 1 2 1 2 1 2 1 	2 2 2 2 2 2 2 2 	g2 ak f| f| f< f< f& f& 	
+ 23:30 ServerTime: 20141228123031 12:30:31 (28 Dec 2014)
+ 23:30 TeamName: 1 ^1RED
+ 23:30 TeamName: 2 ^4BLUE
+ 23:30 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 23:30 ClientBegin: 0
+ 23:30 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 1 n\Phobos\t\2\ts\0\model\doom/phobos\hmodel\doom/phobos\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 23:30 ClientBegin: 1
+ 23:30 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:30 ClientBegin: 2
+ 23:30 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 3 n\^3Mr.^1Gauntlet\t\1\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:30 ClientBegin: 3
+ 23:30 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 4 n\Razor\t\2\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:30 ClientBegin: 4
+ 23:30 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:30 ClientBegin: 5
+ 23:30 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 6 n\Crash\t\1\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:30 ClientBegin: 6
+ 23:30 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:30 ClientUserinfoChanged: 7 n\Slash\t\2\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:30 ClientBegin: 7
+ 23:30 Warmup:
+ 23:35 ShutdownGame:
+ 23:35 ------------------------------------------------------------
+ 23:35 ------------------------------------------------------------
+ 23:35 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\0:23:34\Info\5	2	 	1 2 1 1 2 2 1 2 	2 2 2 2 2 2 2 2 	5 5 5 5 5 5 5 5 	
+ 23:35 ServerTime: 20141228123036 12:30:36 (28 Dec 2014)
+ 23:35 TeamName: 1 ^1RED
+ 23:35 TeamName: 2 ^4BLUE
+ 23:35 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 23:35 ClientBegin: 0
+ 23:35 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 1 n\Phobos\t\2\ts\0\model\doom/phobos\hmodel\doom/phobos\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 23:35 ClientBegin: 1
+ 23:35 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:35 ClientBegin: 2
+ 23:35 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 3 n\^3Mr.^1Gauntlet\t\1\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:35 ClientBegin: 3
+ 23:35 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 4 n\Razor\t\2\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:35 ClientBegin: 4
+ 23:35 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:35 ClientBegin: 5
+ 23:35 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 6 n\Crash\t\1\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:35 ClientBegin: 6
+ 23:35 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 23:35 ClientUserinfoChanged: 7 n\Slash\t\2\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 23:35 ClientBegin: 7
+ 23:37 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 23:37 Score: 1 1
+ 23:37 sayteam: Slash: I'm the team leader 7
+ 23:39 sayteam: ^3Mr.^1Gauntlet: I am the team leader 3
+ 23:41 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 23:41 Score: 2 1
+ 23:43 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 23:43 Score: 2 2
+ 23:44 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 23:44 Score: 1 2
+ 23:46 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 23:46 Score: 1 3
+ 23:53 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 23:53 Score: 5 1
+ 23:56 TeamScore: 1 0 ^1RED
+ 23:56 TeamScore: 2 1 ^4BLUE
+ 23:59 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 23:59 Score: 5 2
+ 24:02 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 24:02 Score: 4 1
+ 24:11 Kill: 6 4 10: Crash killed Razor by MOD_RAILGUN
+ 24:11 Score: 6 1
+ 24:14 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 24:14 Score: 6 2
+ 24:14 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 24:14 Score: 1 4
+ 24:20 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 24:20 Score: 1 5
+ 24:23 TeamScore: 1 0 ^1RED
+ 24:23 TeamScore: 2 2 ^4BLUE
+ 24:27 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 24:27 Score: 0 1
+ 24:31 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 24:31 Score: 7 1
+ 24:31 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 24:31 Score: 2 3
+ 24:35 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 24:35 Score: 2 4
+ 24:46 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 24:46 Score: 7 2
+ 24:55 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 24:55 Score: 2 5
+ 24:58 TeamScore: 1 1 ^1RED
+ 24:58 TeamScore: 2 2 ^4BLUE
+ 25:04 ClientConnect: 8 \ip\82.67.139.126\guid\98029A58811E251FBB76CAD44482ACE3\tld\FR\country\France
+ 25:04 ClientUserinfoChanged: 8 n\BobLePonge\t\3\ts\0\model\james\hmodel\*james\c\5???5\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+ 25:06 Kill: 3 1 2: ^3Mr.^1Gauntlet killed Phobos by MOD_GAUNTLET
+ 25:06 Score: 3 1
+ 25:08 ClientBegin: 8
+ 25:08 Kill: 3 7 2: ^3Mr.^1Gauntlet killed Slash by MOD_GAUNTLET
+ 25:08 Score: 3 2
+ 25:09 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 25:09 Score: 2 6
+ 25:19 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 25:19 Score: 2 7
+ 25:22 TeamScore: 1 2 ^1RED
+ 25:22 TeamScore: 2 2 ^4BLUE
+ 25:27 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 25:27 Score: 2 8
+ 25:27 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 25:27 Score: 7 3
+ 25:34 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 25:34 Score: 7 4
+ 25:34 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 25:34 Score: 2 9
+ 25:41 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 25:41 Score: 5 3
+ 25:43 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 25:43 Score: 2 10
+ 25:45 Kill: 2 3 0: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 25:45 Score: 2 11
+ 25:51 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 25:51 Score: 2 12
+ 25:52 ClientDisconnect: 8
+ 25:52 Weapon_Stats: 8 Given:0 Recvd:0 Armor:0 Health:0 TeamDmg:0
+ 25:54 TeamScore: 1 3 ^1RED
+ 25:54 TeamScore: 2 2 ^4BLUE
+ 25:59 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 25:59 Score: 7 5
+ 26:02 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 26:02 Score: 7 6
+ 26:05 Kill: 3 1 2: ^3Mr.^1Gauntlet killed Phobos by MOD_GAUNTLET
+ 26:05 Score: 3 3
+ 26:05 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+ 26:05 Score: 5 2
+ 26:06 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 26:06 Score: 2 13
+ 26:08 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 26:08 Score: 2 14
+ 26:11 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 26:17 Kill: 3 0 0: ^3Mr.^1Gauntlet killed Orbb by MOD_UNKNOWN
+ 26:17 Score: 3 4
+ 26:22 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 26:22 Score: 2 15
+ 26:25 TeamScore: 1 4 ^1RED
+ 26:25 TeamScore: 2 2 ^4BLUE
+ 26:32 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 26:32 Score: 2 16
+ 26:33 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 26:33 Score: 5 3
+ 26:34 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 26:34 Score: 7 7
+ 26:34 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 26:34 Score: 0 2
+ 26:35 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 26:35 Score: 7 8
+ 26:40 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 26:40 Score: 0 3
+ 26:44 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 26:44 Score: 0 4
+ 26:47 TeamScore: 1 5 ^1RED
+ 26:47 TeamScore: 2 2 ^4BLUE
+ 26:52 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 26:52 Score: 0 5
+ 26:58 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 26:58 Score: 2 17
+ 26:58 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 26:58 Score: 6 3
+ 27:00 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 27:00 Score: 1 6
+ 27:01 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 27:01 Score: 2 18
+ 27:04 TeamScore: 1 6 ^1RED
+ 27:04 TeamScore: 2 2 ^4BLUE
+ 27:09 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 27:09 Score: 6 4
+ 27:11 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 27:11 Score: 5 4
+ 27:17 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 27:17 Score: 4 2
+ 27:18 Kill: 1022 6 0: <world> killed Crash by MOD_UNKNOWN
+ 27:22 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 27:22 Score: 5 5
+ 27:25 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 27:25 Score: 7 9
+ 27:25 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 27:25 Score: 5 6
+ 27:28 TeamScore: 1 6 ^1RED
+ 27:28 TeamScore: 2 3 ^4BLUE
+ 27:34 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 27:34 Score: 2 19
+ 27:37 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 27:37 Score: 1 7
+ 27:40 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 27:40 Score: 1 8
+ 27:45 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 27:45 Score: 0 6
+ 27:49 Kill: 0 3 0: Orbb killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 27:49 Score: 0 7
+ 27:59 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 27:59 Score: 2 20
+ 28:02 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 28:02 Score: 2 21
+ 28:05 TeamScore: 1 7 ^1RED
+ 28:05 TeamScore: 2 3 ^4BLUE
+ 28:08 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 28:08 Score: 5 7
+ 28:11 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 28:11 Score: 7 10
+ 28:11 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 28:11 Score: 1 9
+ 28:17 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 28:17 Score: 0 8
+ 28:20 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 28:20 Score: 0 9
+ 28:24 Kill: 7 1 0: Slash killed Phobos by MOD_UNKNOWN
+ 28:24 Score: 7 11
+ 28:27 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 28:27 Score: 7 12
+ 28:30 TeamScore: 1 7 ^1RED
+ 28:30 TeamScore: 2 4 ^4BLUE
+ 28:37 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 28:37 Score: 0 10
+ 28:45 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 28:45 Score: 0 11
+ 28:49 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 28:49 Score: 4 3
+ 28:54 Kill: 5 7 0: Gorre killed Slash by MOD_UNKNOWN
+ 28:54 Score: 5 8
+ 28:56 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 28:56 Score: 6 5
+ 28:57 Kill: 1022 3 16: <world> killed ^3Mr.^1Gauntlet by MOD_LAVA
+ 28:57 Score: 3 3
+ 29:01 Kill: 6 4 10: Crash killed Razor by MOD_RAILGUN
+ 29:01 Score: 6 6
+ 29:03 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 29:06 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 29:06 Score: 7 13
+ 29:28 Kill: 6 0 0: Crash killed Orbb by MOD_UNKNOWN
+ 29:28 Score: 6 7
+ 29:41 Kill: 3 2 0: ^3Mr.^1Gauntlet killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 29:41 Score: 3 4
+ 29:42 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 29:42 Score: 7 14
+ 29:44 Kill: 3 6 18: ^3Mr.^1Gauntlet killed Crash by MOD_TELEFRAG
+ 29:44 Score: 3 3
+ 29:47 sayteam: Crash: watch your fire gauntlet! 6
+ 29:50 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 29:50 Score: 2 22
+ 29:53 TeamScore: 1 8 ^1RED
+ 29:53 TeamScore: 2 4 ^4BLUE
+ 29:58 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 29:58 Score: 2 23
+ 30:02 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 30:02 Score: 2 24
+ 30:08 Kill: 1022 3 16: <world> killed ^3Mr.^1Gauntlet by MOD_LAVA
+ 30:08 Score: 3 2
+ 30:09 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 30:09 Score: 0 12
+ 30:12 Kill: 7 0 23: Slash killed Orbb by MOD_GRAPPLE
+ 30:12 Score: 7 15
+ 30:14 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 30:20 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 30:20 Score: 7 16
+ 30:21 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 30:21 Score: 7 17
+ 30:28 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 30:28 Score: 7 18
+ 30:31 TeamScore: 1 8 ^1RED
+ 30:31 TeamScore: 2 5 ^4BLUE
+ 30:34 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 30:34 Score: 1 10
+ 30:38 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 30:38 Score: 1 11
+ 30:39 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 30:39 Score: 5 9
+ 30:46 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 30:46 Score: 1 12
+ 30:49 TeamScore: 1 8 ^1RED
+ 30:49 TeamScore: 2 6 ^4BLUE
+ 30:53 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 30:53 Score: 4 4
+ 30:55 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 30:55 Score: 5 10
+ 30:56 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 30:56 Score: 7 19
+ 31:01 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 31:03 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+ 31:03 Score: 4 5
+ 31:06 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 31:06 Score: 4 6
+ 31:09 TeamScore: 1 8 ^1RED
+ 31:09 TeamScore: 2 7 ^4BLUE
+ 31:14 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 31:14 Score: 5 11
+ 31:16 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 31:16 Score: 6 8
+ 31:17 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 31:17 Score: 5 12
+ 31:18 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 31:18 Score: 2 25
+ 31:25 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 31:25 Score: 2 26
+ 31:37 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 31:37 Score: 5 13
+ 31:38 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+ 31:38 Score: 5 12
+ 31:41 TeamScore: 1 9 ^1RED
+ 31:41 TeamScore: 2 7 ^4BLUE
+ 31:44 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 31:44 Score: 1 13
+ 31:48 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 31:48 Score: 2 27
+ 31:51 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 31:51 Score: 2 28
+ 31:53 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 31:53 Score: 4 7
+ 31:56 Kill: 4 3 10: Razor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 31:56 Score: 4 8
+ 31:59 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+ 31:59 Score: 4 9
+ 32:02 TeamScore: 1 9 ^1RED
+ 32:02 TeamScore: 2 8 ^4BLUE
+ 32:10 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 32:10 Score: 2 29
+ 32:11 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 32:11 Score: 0 13
+ 32:11 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 32:11 Score: 1 14
+ 32:12 Kill: 3 1 2: ^3Mr.^1Gauntlet killed Phobos by MOD_GAUNTLET
+ 32:12 Score: 3 3
+ 32:17 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+ 32:17 Score: 4 10
+ 32:17 Kill: 0 2 0: Orbb killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 32:17 Score: 0 14
+ 32:19 Kill: 1022 3 16: <world> killed ^3Mr.^1Gauntlet by MOD_LAVA
+ 32:19 Score: 3 2
+ 32:25 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 33:35 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 33:36 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 33:38 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 33:42 Kill: 1022 6 0: <world> killed Crash by MOD_UNKNOWN
+ 33:47 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 33:47 Score: 4 11
+ 33:54 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 33:54 Score: 5 13
+ 33:56 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 33:56 Score: 2 30
+ 33:59 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 33:59 Score: 6 9
+ 34:07 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 34:07 Score: 2 31
+ 34:11 Kill: 6 0 0: Crash killed Orbb by MOD_UNKNOWN
+ 34:11 Score: 6 10
+ 34:16 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 34:16 Score: 2 32
+ 34:19 TeamScore: 1 10 ^1RED
+ 34:19 TeamScore: 2 8 ^4BLUE
+ 34:26 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 34:26 Score: 1 15
+ 34:31 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 34:31 Score: 5 14
+ 34:34 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 34:35 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 34:35 Score: 6 11
+ 34:36 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 34:36 Score: 2 33
+ 34:40 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 34:40 Score: 5 15
+ 34:41 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 34:41 Score: 4 12
+ 34:45 Kill: 5 1 0: Gorre killed Phobos by MOD_UNKNOWN
+ 34:45 Score: 5 16
+ 34:46 Kill: 4 3 10: Razor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 34:46 Score: 4 13
+ 34:49 TeamScore: 1 10 ^1RED
+ 34:49 TeamScore: 2 9 ^4BLUE
+ 34:54 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 34:54 Score: 0 15
+ 34:55 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 34:55 Score: 2 34
+ 34:58 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 34:58 Score: 2 35
+ 35:20 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 35:20 Score: 2 36
+ 35:23 TeamScore: 1 11 ^1RED
+ 35:23 TeamScore: 2 9 ^4BLUE
+ 35:29 Kill: 4 3 10: Razor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 35:29 Score: 4 14
+ 35:30 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 35:30 Score: 0 16
+ 35:32 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 35:32 Score: 1 16
+ 35:36 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 35:36 Score: 5 17
+ 35:41 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 35:51 Kill: 2 3 0: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 35:51 Score: 2 37
+ 35:58 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 35:58 Score: 5 18
+ 35:59 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 35:59 Score: 2 38
+ 36:00 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 36:00 Score: 2 39
+ 36:01 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 36:01 Score: 2 40
+ 36:04 TeamScore: 1 12 ^1RED
+ 36:04 TeamScore: 2 9 ^4BLUE
+ 36:08 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 36:08 Score: 0 17
+ 36:14 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 36:14 Score: 5 19
+ 36:15 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 36:15 Score: 2 41
+ 36:21 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 36:21 Score: 2 42
+ 36:22 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 36:22 Score: 2 43
+ 36:25 TeamScore: 1 13 ^1RED
+ 36:25 TeamScore: 2 9 ^4BLUE
+ 36:30 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 36:30 Score: 2 44
+ 36:35 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 36:35 Score: 0 18
+ 36:35 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 36:35 Score: 1 17
+ 36:37 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 36:37 Score: 7 20
+ 36:41 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 36:41 Score: 1 18
+ 37:00 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 37:00 Score: 2 45
+ 37:03 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 37:03 Score: 7 21
+ 37:06 TeamScore: 1 13 ^1RED
+ 37:06 TeamScore: 2 10 ^4BLUE
+ 37:15 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 37:15 Score: 6 12
+ 37:16 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 37:16 Score: 2 46
+ 37:22 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 37:22 Score: 2 47
+ 37:29 Kill: 3 5 2: ^3Mr.^1Gauntlet killed Gorre by MOD_GAUNTLET
+ 37:29 Score: 3 3
+ 37:32 TeamScore: 1 14 ^1RED
+ 37:32 TeamScore: 2 10 ^4BLUE
+ 37:38 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 37:38 Score: 0 19
+ 37:42 Kill: 1 5 0: Phobos killed Gorre by MOD_UNKNOWN
+ 37:42 Score: 1 19
+ 37:43 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 37:43 Score: 6 13
+ 37:46 Kill: 3 4 2: ^3Mr.^1Gauntlet killed Razor by MOD_GAUNTLET
+ 37:46 Score: 3 4
+ 37:49 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 37:49 Score: 1 20
+ 38:02 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 38:02 Score: 1 21
+ 38:02 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 38:02 Score: 2 48
+ 38:05 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 38:05 Score: 5 20
+ 38:13 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 38:13 Score: 6 14
+ 38:16 TeamScore: 1 15 ^1RED
+ 38:16 TeamScore: 2 10 ^4BLUE
+ 38:20 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 38:20 Score: 5 21
+ 38:21 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 38:21 Score: 4 15
+ 38:31 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 38:31 Score: 7 22
+ 38:33 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 38:33 Score: 5 22
+ 38:36 TeamScore: 1 15 ^1RED
+ 38:36 TeamScore: 2 11 ^4BLUE
+ 38:42 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 38:42 Score: 7 23
+ 38:42 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 38:42 Score: 2 49
+ 38:43 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+ 38:43 Score: 4 16
+ 38:44 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 38:44 Score: 2 50
+ 38:54 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 38:54 Score: 2 51
+ 38:59 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 38:59 Score: 4 17
+ 39:01 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 39:10 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 39:10 Score: 0 20
+ 39:29 Kill: 4 7 0: Razor killed Slash by MOD_UNKNOWN
+ 39:29 Score: 4 18
+ 39:32 Kill: 7 5 0: Slash killed Gorre by MOD_UNKNOWN
+ 39:32 Score: 7 24
+ 39:37 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 39:37 Score: 5 23
+ 39:39 Kill: 1022 3 0: <world> killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 39:44 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 39:44 Score: 5 24
+ 39:47 TeamScore: 1 15 ^1RED
+ 39:47 TeamScore: 2 12 ^4BLUE
+ 39:52 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 39:52 Score: 0 21
+ 39:54 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 39:54 Score: 7 25
+ 40:01 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 40:01 Score: 5 25
+ 40:03 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 40:03 Score: 6 15
+ 40:05 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 40:05 Score: 6 16
+ 40:09 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 40:09 Score: 0 22
+ 40:12 TeamScore: 1 16 ^1RED
+ 40:12 TeamScore: 2 12 ^4BLUE
+ 40:22 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 40:22 Score: 2 52
+ 40:23 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 40:23 Score: 2 53
+ 40:26 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 40:26 Score: 1 22
+ 40:31 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 40:31 Score: 2 54
+ 40:54 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 40:54 Score: 6 17
+ 40:57 TeamScore: 1 17 ^1RED
+ 40:57 TeamScore: 2 12 ^4BLUE
+ 41:02 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 41:02 Score: 5 26
+ 41:12 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 41:12 Score: 2 55
+ 41:13 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 41:13 Score: 5 27
+ 41:18 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 41:18 Score: 2 56
+ 41:25 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 41:25 Score: 2 57
+ 41:28 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 41:28 Score: 2 58
+ 41:31 TeamScore: 1 18 ^1RED
+ 41:31 TeamScore: 2 12 ^4BLUE
+ 41:38 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 41:38 Score: 1 23
+ 41:38 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 41:38 Score: 0 23
+ 41:39 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 41:39 Score: 6 18
+ 41:41 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 41:41 Score: 1 24
+ 41:44 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 41:44 Score: 0 24
+ 41:53 Kill: 1 5 0: Phobos killed Gorre by MOD_UNKNOWN
+ 41:53 Score: 1 25
+ 41:54 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 41:54 Score: 0 25
+ 42:04 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 42:04 Score: 0 26
+ 42:07 TeamScore: 1 19 ^1RED
+ 42:07 TeamScore: 2 12 ^4BLUE
+ 42:10 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 42:10 Score: 0 27
+ 42:12 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 42:12 Score: 7 26
+ 42:15 Kill: 4 1 0: Razor killed Phobos by MOD_UNKNOWN
+ 42:15 Score: 4 19
+ 42:18 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 42:18 Score: 5 28
+ 42:23 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 42:23 Score: 1 26
+ 42:28 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+ 42:28 Score: 4 20
+ 42:31 TeamScore: 1 19 ^1RED
+ 42:31 TeamScore: 2 13 ^4BLUE
+ 42:38 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 42:38 Score: 0 28
+ 42:39 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 42:39 Score: 5 29
+ 42:41 Kill: 3 5 2: ^3Mr.^1Gauntlet killed Gorre by MOD_GAUNTLET
+ 42:41 Score: 3 5
+ 42:44 Kill: 3 1 2: ^3Mr.^1Gauntlet killed Phobos by MOD_GAUNTLET
+ 42:44 Score: 3 6
+ 42:45 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 42:45 Score: 2 59
+ 42:46 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+ 42:48 TeamScore: 1 20 ^1RED
+ 42:48 TeamScore: 2 13 ^4BLUE
+ 42:53 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 42:53 Score: 1 27
+ 42:56 Kill: 3 5 2: ^3Mr.^1Gauntlet killed Gorre by MOD_GAUNTLET
+ 42:56 Score: 3 7
+ 42:58 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 42:58 Score: 2 60
+ 43:01 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 43:01 Score: 7 27
+ 43:01 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 43:01 Score: 2 61
+ 43:06 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 43:06 Score: 2 62
+ 43:09 TeamScore: 1 21 ^1RED
+ 43:09 TeamScore: 2 13 ^4BLUE
+ 43:13 Kill: 4 3 10: Razor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 43:13 Score: 4 21
+ 43:14 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 43:14 Score: 2 63
+ 43:14 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 43:14 Score: 0 29
+ 43:17 Kill: 2 3 0: ^6L^3akerbo^6T killed ^3Mr.^1Gauntlet by MOD_UNKNOWN
+ 43:17 Score: 2 64
+ 43:19 Kill: 1022 1 16: <world> killed Phobos by MOD_LAVA
+ 43:19 Score: 1 26
+ 43:25 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 43:27 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 43:27 Score: 5 30
+ 43:31 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 43:31 Score: 2 65
+ 43:36 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 43:36 Score: 1 27
+ 43:37 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 43:37 Score: 2 66
+ 43:40 TeamScore: 1 22 ^1RED
+ 43:40 TeamScore: 2 13 ^4BLUE
+ 43:48 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 43:48 Score: 0 30
+ 43:50 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 43:50 Score: 5 31
+ 43:54 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 43:54 Score: 2 67
+ 43:54 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 43:54 Score: 5 32
+ 44:03 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 44:03 Score: 2 68
+ 44:04 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 44:04 Score: 5 33
+ 44:08 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 44:08 Score: 2 69
+ 44:11 TeamScore: 1 23 ^1RED
+ 44:11 TeamScore: 2 13 ^4BLUE
+ 44:17 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 44:17 Score: 1 28
+ 44:18 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 44:18 Score: 2 70
+ 44:21 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 44:21 Score: 5 34
+ 44:29 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+ 44:32 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 44:32 Score: 2 71
+ 44:34 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 44:34 Score: 6 19
+ 44:36 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 44:36 Score: 2 72
+ 44:39 TeamScore: 1 24 ^1RED
+ 44:39 TeamScore: 2 13 ^4BLUE
+ 44:44 Kill: 1 3 10: Phobos killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 44:44 Score: 1 29
+ 44:48 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 44:48 Score: 7 28
+ 44:51 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 44:51 Score: 1 30
+ 45:00 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 45:00 Score: 6 20
+ 45:06 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 45:06 Score: 5 35
+ 45:09 TeamScore: 1 24 ^1RED
+ 45:09 TeamScore: 2 14 ^4BLUE
+ 45:16 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 45:16 Score: 2 73
+ 45:19 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 45:19 Score: 5 36
+ 45:22 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 45:22 Score: 2 74
+ 45:25 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 45:25 Score: 7 29
+ 45:26 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 45:26 Score: 0 31
+ 45:28 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 45:28 Score: 7 30
+ 45:44 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 45:44 Score: 7 31
+ 45:47 TeamScore: 1 24 ^1RED
+ 45:47 TeamScore: 2 15 ^4BLUE
+ 45:56 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+ 45:56 Score: 4 22
+ 45:58 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 45:58 Score: 0 32
+ 46:06 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 46:06 Score: 2 75
+ 46:08 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 46:08 Score: 7 32
+ 46:08 Kill: 1022 1 16: <world> killed Phobos by MOD_LAVA
+ 46:08 Score: 1 29
+ 46:12 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 46:12 Score: 2 76
+ 46:14 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 46:18 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 46:33 Kill: 1 2 10: Phobos killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 46:33 Score: 1 30
+ 46:36 Kill: 1022 6 0: <world> killed Crash by MOD_UNKNOWN
+ 46:37 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 46:37 Score: 7 33
+ 46:37 Kill: 1022 1 16: <world> killed Phobos by MOD_LAVA
+ 46:37 Score: 1 29
+ 46:43 Kill: 1022 1 0: <world> killed Phobos by MOD_UNKNOWN
+ 46:50 Kill: 1 6 10: Phobos killed Crash by MOD_RAILGUN
+ 46:50 Score: 1 30
+ 46:53 TeamScore: 1 24 ^1RED
+ 46:53 TeamScore: 2 16 ^4BLUE
+ 46:57 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 46:57 Score: 7 34
+ 47:01 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 47:01 Score: 7 35
+ 47:03 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 47:03 Score: 0 33
+ 47:03 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 47:03 Score: 6 21
+ 47:04 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 47:04 Score: 5 37
+ 47:12 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 47:12 Score: 0 34
+ 47:13 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 47:13 Score: 0 35
+ 47:16 TeamScore: 1 25 ^1RED
+ 47:16 TeamScore: 2 16 ^4BLUE
+ 47:24 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 47:24 Score: 4 23
+ 47:30 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 47:30 Score: 7 36
+ 47:34 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 47:34 Score: 2 77
+ 47:36 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 47:36 Score: 2 78
+ 47:45 Kill: 3 5 2: ^3Mr.^1Gauntlet killed Gorre by MOD_GAUNTLET
+ 47:45 Score: 3 8
+ 47:55 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 47:55 Score: 7 37
+ 47:57 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 47:57 Score: 7 38
+ 48:00 TeamScore: 1 25 ^1RED
+ 48:00 TeamScore: 2 17 ^4BLUE
+ 48:04 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 48:04 Score: 0 36
+ 48:07 Kill: 0 1 10: Orbb killed Phobos by MOD_RAILGUN
+ 48:07 Score: 0 37
+ 48:14 Kill: 7 6 10: Slash killed Crash by MOD_RAILGUN
+ 48:14 Score: 7 39
+ 48:17 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 48:17 Score: 7 40
+ 48:24 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 48:24 Score: 2 79
+ 48:26 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 48:26 Score: 2 80
+ 48:29 TeamScore: 1 26 ^1RED
+ 48:29 TeamScore: 2 17 ^4BLUE
+ 48:34 Kill: 3 7 2: ^3Mr.^1Gauntlet killed Slash by MOD_GAUNTLET
+ 48:34 Score: 3 9
+ 48:38 Kill: 2 1 10: ^6L^3akerbo^6T killed Phobos by MOD_RAILGUN
+ 48:38 Score: 2 81
+ 48:38 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 48:38 Score: 0 38
+ 48:43 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 48:43 Score: 2 82
+ 48:46 TeamScore: 1 27 ^1RED
+ 48:46 TeamScore: 2 17 ^4BLUE
+ 48:54 Kill: 6 1 10: Crash killed Phobos by MOD_RAILGUN
+ 48:54 Score: 6 22
+ 48:55 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 48:55 Score: 2 83
+ 48:57 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 48:57 Score: 5 38
+ 48:59 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 48:59 Score: 5 39
+ 49:03 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 49:03 Score: 5 40
+ 49:11 Kill: 5 1 0: Gorre killed Phobos by MOD_UNKNOWN
+ 49:11 Score: 5 41
+ 49:15 ClientConnect: 8 \ip\176.241.78.217\guid\4BABB3A5515BB3EBB3BA460F6B8FD1A0\tld\PL\country\Poland
+ 49:15 ClientUserinfoChanged: 8 n\kosodrzewina\t\3\ts\0\model\sarge\hmodel\sarge\c\5???5\c1\2\c2\2\hc\125\w\0\l\0\tt\0\tl\0
+ 49:19 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 49:19 Score: 4 24
+ 49:22 TeamScore: 1 27 ^1RED
+ 49:22 TeamScore: 2 18 ^4BLUE
+ 49:23 ClientBegin: 8
+ 49:27 ClientBegin: 8
+ 49:27 ClientUserinfoChanged: 8 n\kosodrzewina\t\2\ts\0\model\sarge\hmodel\sarge\c\5???5\c1\2\c2\2\hc\125\w\0\l\0\tt\0\tl\0
+ 49:27 ClientUserinfoChanged: 1 n\Phobos\t\2\ts\0\model\doom/phobos\hmodel\doom/phobos\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\0
+ 49:27 ClientUserinfoChanged: 8 n\kosodrzewina\t\2\ts\0\model\sarge\hmodel\sarge\c\5???5\c1\2\c2\2\hc\125\w\0\l\0\tt\0\tl\1
+ 49:28 Kill: 1 0 10: Phobos killed Orbb by MOD_RAILGUN
+ 49:28 Score: 1 31
+ 49:30 ClientDisconnect: 1
+ 49:30 Weapon_Stats: 1 Railgun:194:34:0:0 Hook:56:0:0:0 Given:8500 Recvd:10850 Armor:0 Health:0 TeamDmg:0
+ 49:31 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 49:31 Score: 6 23
+ 49:31 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 49:31 Score: 5 42
+ 49:34 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 49:34 Score: 2 84
+ 49:37 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 49:37 Score: 2 85
+ 49:40 TeamScore: 1 28 ^1RED
+ 49:40 TeamScore: 2 18 ^4BLUE
+ 49:44 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 49:44 Score: 6 24
+ 49:46 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 49:46 Score: 0 39
+ 49:47 Kill: 8 6 10: kosodrzewina killed Crash by MOD_RAILGUN
+ 49:47 Score: 8 1
+ 49:52 Kill: 8 5 0: kosodrzewina killed Gorre by MOD_UNKNOWN
+ 49:52 Score: 8 2
+ 49:56 Kill: 3 7 2: ^3Mr.^1Gauntlet killed Slash by MOD_GAUNTLET
+ 49:56 Score: 3 10
+ 50:06 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 50:06 Score: 5 43
+ 50:09 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 50:09 Score: 2 86
+ 50:17 Kill: 8 7 0: kosodrzewina killed Slash by MOD_UNKNOWN
+ 50:17 Score: 8 3
+ 50:21 Kill: 2 8 10: ^6L^3akerbo^6T killed kosodrzewina by MOD_RAILGUN
+ 50:21 Score: 2 87
+ 50:26 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 50:26 Score: 7 41
+ 50:30 ClientDisconnect: 8
+ 50:30 Weapon_Stats: 8 Railgun:1:1:0:0 Given:250 Recvd:250 Armor:0 Health:0 TeamDmg:0
+ 50:30 ClientUserinfoChanged: 4 n\Razor\t\2\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\1
+ 50:40 Rcon: addbot Visor 2.000000 blue 0
+ 50:40 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 50:40 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 50:40 ClientBegin: 1
+ 50:47 sayteam: Visor: Is there a team leader 1
+ 50:48 sayteam: Razor: I'm the team leader 4
+ 50:51 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 50:51 Score: 7 42
+ 50:54 TeamScore: 1 28 ^1RED
+ 50:54 TeamScore: 2 19 ^4BLUE
+ 50:57 Kill: 3 4 2: ^3Mr.^1Gauntlet killed Razor by MOD_GAUNTLET
+ 50:57 Score: 3 11
+ 50:58 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 50:58 Score: 5 44
+ 51:00 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 51:00 Score: 2 88
+ 51:00 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 51:00 Score: 2 89
+ 51:18 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 51:18 Score: 2 90
+ 51:21 TeamScore: 1 29 ^1RED
+ 51:21 TeamScore: 2 19 ^4BLUE
+ 51:24 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+ 51:24 Score: 7 43
+ 51:25 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 51:25 Score: 2 91
+ 51:31 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 51:31 Score: 1 1
+ 51:40 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 51:40 Score: 1 2
+ 51:46 Kill: 1022 6 0: <world> killed Crash by MOD_UNKNOWN
+ 51:47 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 51:47 Score: 2 92
+ 51:52 Kill: 6 7 10: Crash killed Slash by MOD_RAILGUN
+ 51:52 Score: 6 25
+ 51:54 Kill: 2 0 0: ^6L^3akerbo^6T killed Orbb by MOD_UNKNOWN
+ 51:54 Score: 2 93
+ 52:09 Kill: 1 7 0: Visor killed Slash by MOD_UNKNOWN
+ 52:09 Score: 1 3
+ 52:11 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 52:11 Score: 0 40
+ 52:22 Kill: 7 6 23: Slash killed Crash by MOD_GRAPPLE
+ 52:22 Score: 7 44
+ 52:25 Kill: 1022 7 16: <world> killed Slash by MOD_LAVA
+ 52:25 Score: 7 43
+ 52:28 TeamScore: 1 30 ^1RED
+ 52:28 TeamScore: 2 19 ^4BLUE
+ 52:28 Exit: Fraglimit hit.
+ 52:28 red:30  blue:19
+ 52:28 score: 93  ping: 0  client: 2 ^6L^3akerbo^6T
+ 52:28 score: 44  ping: 0  client: 5 Gorre
+ 52:28 score: 43  ping: 0  client: 7 Slash
+ 52:28 score: 40  ping: 0  client: 0 Orbb
+ 52:28 score: 25  ping: 0  client: 6 Crash
+ 52:28 score: 24  ping: 0  client: 4 Razor
+ 52:28 score: 11  ping: 0  client: 3 ^3Mr.^1Gauntlet
+ 52:28 score: 3  ping: 0  client: 1 Visor
+ 52:28 Weapon_Stats: 0 Railgun:222:38:0:0 Hook:60:0:0:0 Given:9500 Recvd:10050 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 1 Railgun:15:2:0:0 Hook:7:0:0:0 Given:500 Recvd:500 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 2 Railgun:307:90:0:0 Hook:90:0:0:0 Given:22625 Recvd:7250 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 3 Gauntlet:21:13:0:0 Given:5200 Recvd:9625 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 4 Railgun:168:22:0:0 Hook:70:0:0:0 Given:5500 Recvd:10175 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 5 Railgun:228:43:0:0 Hook:66:0:0:0 Given:10625 Recvd:11100 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 6 Railgun:129:23:0:0 Hook:77:0:0:0 Given:5750 Recvd:9050 Armor:0 Health:0 TeamDmg:0
+ 52:28 Weapon_Stats: 7 Railgun:200:40:0:0 Hook:70:2:0:0 Given:10600 Recvd:10200 Armor:0 Health:0 TeamDmg:0
+ 52:34 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\1
+ 52:34 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\1
+ 52:34 ShutdownGame:
+ 52:34 ------------------------------------------------------------
+ 52:34 ------------------------------------------------------------
+ 52:34 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\0:52:32\Info\j{	3	u j	1 2 1 1 2 2 1 2 	2 2 2 2 2 2 2 2 	j{ 1q j{ j{ j{ j{ j{ j{ 	
+ 52:34 ServerTime: 20141228125935 12:59:35 (28 Dec 2014)
+ 52:34 TeamName: 1 ^1RED
+ 52:34 TeamName: 2 ^4BLUE
+ 52:34 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 52:34 ClientBegin: 0
+ 52:34 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:34 ClientBegin: 1
+ 52:34 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\2\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:34 ClientBegin: 2
+ 52:34 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 3 n\^3Mr.^4Gauntlet\t\2\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:34 ClientBegin: 3
+ 52:34 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 52:34 ClientBegin: 4
+ 52:34 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 5 n\Gorre\t\1\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:34 ClientBegin: 5
+ 52:34 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 6 n\Crash\t\1\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:34 ClientBegin: 6
+ 52:34 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:34 ClientUserinfoChanged: 7 n\Slash\t\1\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:34 ClientBegin: 7
+ 52:34 Warmup:
+ 52:39 ShutdownGame:
+ 52:39 ------------------------------------------------------------
+ 52:39 ------------------------------------------------------------
+ 52:39 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\0:52:37\Info\5	2	 	2 2 2 2 1 1 1 1 	2 2 2 2 2 2 2 2 	5 5 5 5 5 5 5 5 	
+ 52:39 ServerTime: 20141228125939 12:59:39 (28 Dec 2014)
+ 52:39 TeamName: 1 ^1RED
+ 52:39 TeamName: 2 ^4BLUE
+ 52:39 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 52:39 ClientBegin: 0
+ 52:39 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:39 ClientBegin: 1
+ 52:39 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\2\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:39 ClientBegin: 2
+ 52:39 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 3 n\^3Mr.^4Gauntlet\t\2\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:39 ClientBegin: 3
+ 52:39 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 52:39 ClientBegin: 4
+ 52:39 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 5 n\Gorre\t\1\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:39 ClientBegin: 5
+ 52:39 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 6 n\Crash\t\1\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:39 ClientBegin: 6
+ 52:39 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 52:39 ClientUserinfoChanged: 7 n\Slash\t\1\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 52:39 ClientBegin: 7
+ 52:40 sayteam: Crash: I am the team leader 6
+ 52:42 sayteam: ^3Mr.^4Gauntlet: I'm the team leader 3
+ 52:45 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 52:45 Score: 5 1
+ 52:46 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 52:46 Score: 4 1
+ 52:47 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 52:47 Score: 5 2
+ 52:58 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+ 52:58 Score: 4 2
+ 53:01 TeamScore: 1 1 ^1RED
+ 53:01 TeamScore: 2 0 ^4BLUE
+ 53:07 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 53:07 Score: 2 1
+ 53:11 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+ 53:11 Score: 4 3
+ 53:18 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 53:18 Score: 2 2
+ 53:22 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 53:22 Score: 4 4
+ 53:23 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 53:23 Score: 0 1
+ 53:40 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 53:40 Score: 6 1
+ 54:03 Kill: 6 5 0: Crash killed Gorre by MOD_UNKNOWN
+ 54:03 Score: 6 2
+ 54:06 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 54:06 Score: 6 3
+ 54:09 TeamScore: 1 2 ^1RED
+ 54:09 TeamScore: 2 0 ^4BLUE
+ 54:15 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+ 54:15 Score: 3 1
+ 54:17 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 54:17 Score: 6 4
+ 54:19 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 54:19 Score: 1 1
+ 54:23 Kill: 1 3 0: Visor killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 54:23 Score: 1 2
+ 54:25 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 54:25 Score: 7 1
+ 54:30 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 54:30 Score: 2 3
+ 54:32 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 54:32 Score: 1 3
+ 54:35 TeamScore: 1 2 ^1RED
+ 54:35 TeamScore: 2 1 ^4BLUE
+ 54:38 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 54:38 Score: 4 5
+ 54:41 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 54:41 Score: 2 4
+ 54:42 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 54:42 Score: 0 2
+ 54:43 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+ 54:43 Score: 4 6
+ 54:45 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 54:45 Score: 2 5
+ 54:49 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 54:49 Score: 2 6
+ 54:52 TeamScore: 1 2 ^1RED
+ 54:52 TeamScore: 2 2 ^4BLUE
+ 54:58 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+ 54:58 Score: 1 4
+ 54:59 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 54:59 Score: 7 2
+ 55:09 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 55:09 Score: 1 5
+ 55:15 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 55:15 Score: 5 3
+ 55:27 Kill: 3 5 2: ^3Mr.^4Gauntlet killed Gorre by MOD_GAUNTLET
+ 55:27 Score: 3 2
+ 55:27 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 55:27 Score: 6 5
+ 55:31 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 55:31 Score: 6 6
+ 55:34 TeamScore: 1 3 ^1RED
+ 55:34 TeamScore: 2 2 ^4BLUE
+ 55:37 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 55:37 Score: 0 3
+ 55:40 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 55:40 Score: 5 4
+ 55:41 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 55:41 Score: 0 4
+ 55:42 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 55:42 Score: 1 6
+ 55:44 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 55:44 Score: 0 5
+ 55:47 TeamScore: 1 3 ^1RED
+ 55:47 TeamScore: 2 3 ^4BLUE
+ 55:50 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 55:50 Score: 2 7
+ 55:56 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 55:56 Score: 5 5
+ 55:58 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 55:58 Score: 1 7
+ 56:00 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+ 56:00 Score: 3 3
+ 56:00 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 56:00 Score: 5 6
+ 56:02 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 56:02 Score: 2 8
+ 56:05 TeamScore: 1 3 ^1RED
+ 56:05 TeamScore: 2 4 ^4BLUE
+ 56:10 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 56:10 Score: 1 8
+ 56:11 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 56:11 Score: 2 9
+ 56:18 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 56:18 Score: 2 10
+ 56:34 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 56:34 Score: 5 7
+ 56:49 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+ 56:49 Score: 0 6
+ 56:52 TeamScore: 1 3 ^1RED
+ 56:52 TeamScore: 2 5 ^4BLUE
+ 57:01 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 57:01 Score: 5 8
+ 57:16 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 57:16 Score: 2 11
+ 57:17 Kill: 1022 2 16: <world> killed ^6L^3akerbo^6T by MOD_LAVA
+ 57:17 Score: 2 10
+ 57:17 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 57:17 Score: 6 7
+ 57:18 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 57:18 Score: 6 8
+ 57:20 Kill: 4 5 0: Razor killed Gorre by MOD_UNKNOWN
+ 57:20 Score: 4 7
+ 57:21 TeamScore: 1 4 ^1RED
+ 57:21 TeamScore: 2 5 ^4BLUE
+ 57:27 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 57:27 Score: 1 9
+ 57:35 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 57:35 Score: 2 11
+ 57:36 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 57:36 Score: 5 9
+ 57:39 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 57:39 Score: 0 7
+ 57:41 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+ 57:41 Score: 5 8
+ 57:44 TeamScore: 1 4 ^1RED
+ 57:44 TeamScore: 2 6 ^4BLUE
+ 57:46 ClientConnect: 8 \ip\85.216.205.10\guid\1970D1AD34154760102FFB549722C280\tld\SK\country\Slovakia
+ 57:46 ClientUserinfoChanged: 8 n\Optos\t\3\ts\0\model\tankjr/pm\hmodel\tankjr/pm\c\5???5\c1\1\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+ 57:47 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 57:47 Score: 2 12
+ 57:48 ClientUserinfoChanged: 8 n\Optos\t\3\ts\0\model\slash/blue\hmodel\slash/blue\c\5???5\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+ 57:48 ClientBegin: 8
+ 57:49 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 57:49 Score: 5 9
+ 57:51 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 57:51 Score: 5 10
+ 57:54 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 57:54 Score: 5 11
+ 57:55 ClientDisconnect: 8
+ 57:55 Weapon_Stats: 8 Given:0 Recvd:0 Armor:0 Health:0 TeamDmg:0
+ 57:56 Kill: 2 4 23: ^6L^3akerbo^6T killed Razor by MOD_GRAPPLE
+ 57:56 Score: 2 13
+ 57:58 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 57:58 Score: 5 12
+ 58:00 Kill: 1022 1 0: <world> killed Visor by MOD_UNKNOWN
+ 58:04 Kill: 6 1 23: Crash killed Visor by MOD_GRAPPLE
+ 58:04 Score: 6 9
+ 58:07 TeamScore: 1 5 ^1RED
+ 58:07 TeamScore: 2 6 ^4BLUE
+ 58:12 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 58:12 Score: 6 10
+ 58:15 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 58:15 Score: 2 14
+ 58:16 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 58:16 Score: 7 3
+ 58:19 Kill: 7 1 10: Slash killed Visor by MOD_RAILGUN
+ 58:19 Score: 7 4
+ 58:30 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 58:30 Score: 5 13
+ 58:33 TeamScore: 1 6 ^1RED
+ 58:33 TeamScore: 2 6 ^4BLUE
+ 58:40 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 58:40 Score: 0 8
+ 58:48 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 58:48 Score: 0 9
+ 58:51 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 58:51 Score: 2 15
+ 58:52 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 58:52 Score: 1 10
+ 58:55 TeamScore: 1 6 ^1RED
+ 58:55 TeamScore: 2 7 ^4BLUE
+ 59:01 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 59:01 Score: 2 16
+ 59:01 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 59:01 Score: 5 14
+ 59:01 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 59:01 Score: 1 11
+ 59:10 Kill: 6 1 10: Crash killed Visor by MOD_RAILGUN
+ 59:10 Score: 6 11
+ 59:11 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 59:11 Score: 0 10
+ 59:19 Kill: 2 3 0: ^6L^3akerbo^6T killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 59:19 Score: 2 17
+ 59:23 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 59:23 Score: 7 5
+ 59:25 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 59:25 Score: 0 11
+ 59:27 Kill: 0 2 0: Orbb killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 59:27 Score: 0 12
+ 59:28 TeamScore: 1 6 ^1RED
+ 59:28 TeamScore: 2 8 ^4BLUE
+ 59:33 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 59:33 Score: 4 8
+ 59:37 Kill: 1022 3 16: <world> killed ^3Mr.^4Gauntlet by MOD_LAVA
+ 59:37 Score: 3 2
+ 59:37 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 59:37 Score: 1 12
+ 59:40 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 59:40 Score: 4 9
+ 59:43 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 59:44 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 59:44 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 59:44 Score: 5 15
+ 59:46 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 59:46 Score: 7 6
+ 59:49 TeamScore: 1 7 ^1RED
+ 59:49 TeamScore: 2 8 ^4BLUE
+ 59:55 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 59:55 Score: 6 12
+ 60:01 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 60:01 Score: 2 18
+ 60:02 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 60:02 Score: 0 13
+ 60:04 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 60:04 Score: 5 16
+ 60:04 Kill: 1022 2 16: <world> killed ^6L^3akerbo^6T by MOD_LAVA
+ 60:04 Score: 2 17
+ 60:08 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+ 60:08 Score: 5 15
+ 60:10 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 60:14 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 60:19 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 60:19 Score: 1 13
+ 60:27 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 60:27 Score: 2 18
+ 60:30 TeamScore: 1 7 ^1RED
+ 60:30 TeamScore: 2 9 ^4BLUE
+ 60:33 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 60:33 Score: 6 13
+ 60:33 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 60:33 Score: 7 7
+ 60:38 Kill: 7 1 10: Slash killed Visor by MOD_RAILGUN
+ 60:38 Score: 7 8
+ 60:43 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 60:43 Score: 2 19
+ 60:44 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 60:44 Score: 4 10
+ 60:47 TeamScore: 1 8 ^1RED
+ 60:47 TeamScore: 2 9 ^4BLUE
+ 60:53 Kill: 3 5 2: ^3Mr.^4Gauntlet killed Gorre by MOD_GAUNTLET
+ 60:53 Score: 3 3
+ 60:53 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 60:53 Score: 0 14
+ 60:57 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 60:57 Score: 4 11
+ 60:59 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 60:59 Score: 2 20
+ 61:00 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 61:00 Score: 2 21
+ 61:03 Kill: 3 0 0: ^3Mr.^4Gauntlet killed Orbb by MOD_UNKNOWN
+ 61:03 Score: 3 4
+ 61:03 TeamScore: 1 8 ^1RED
+ 61:03 TeamScore: 2 10 ^4BLUE
+ 61:08 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 61:08 Score: 2 22
+ 61:13 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 61:13 Score: 0 15
+ 61:19 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 61:19 Score: 6 14
+ 61:29 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 61:29 Score: 1 14
+ 61:33 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 61:33 Score: 2 23
+ 61:36 TeamScore: 1 8 ^1RED
+ 61:36 TeamScore: 2 11 ^4BLUE
+ 61:40 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 61:40 Score: 7 9
+ 61:40 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 61:40 Score: 5 16
+ 61:45 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 61:45 Score: 4 12
+ 61:48 Kill: 1022 1 0: <world> killed Visor by MOD_UNKNOWN
+ 61:55 Kill: 1 3 0: Visor killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 61:55 Score: 1 15
+ 61:56 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 61:56 Score: 2 24
+ 61:58 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 61:58 Score: 6 15
+ 62:10 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 62:10 Score: 6 16
+ 62:12 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 62:12 Score: 1 16
+ 62:14 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 62:14 Score: 5 17
+ 62:17 TeamScore: 1 9 ^1RED
+ 62:17 TeamScore: 2 11 ^4BLUE
+ 62:26 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 62:26 Score: 7 10
+ 62:27 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 62:27 Score: 2 25
+ 62:27 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 62:27 Score: 0 16
+ 62:28 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 62:28 Score: 6 17
+ 62:31 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 62:31 Score: 7 11
+ 62:36 Kill: 6 1 10: Crash killed Visor by MOD_RAILGUN
+ 62:36 Score: 6 18
+ 62:39 TeamScore: 1 10 ^1RED
+ 62:39 TeamScore: 2 11 ^4BLUE
+ 62:45 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 62:45 Score: 5 18
+ 62:45 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 62:45 Score: 0 17
+ 62:47 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 62:47 Score: 6 19
+ 64:10 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 64:10 Kill: 1022 4 0: <world> killed Razor by MOD_UNKNOWN
+ 64:12 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 64:14 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 64:14 Score: 1 17
+ 64:21 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 64:21 Score: 2 26
+ 64:27 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 64:27 Score: 2 27
+ 64:28 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 64:28 Score: 7 12
+ 64:37 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 64:37 Score: 2 28
+ 64:40 TeamScore: 1 10 ^1RED
+ 64:40 TeamScore: 2 12 ^4BLUE
+ 64:44 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 64:44 Score: 1 18
+ 64:45 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+ 64:45 Score: 1 19
+ 64:53 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 64:53 Score: 1 20
+ 64:55 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 64:55 Score: 7 13
+ 65:00 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+ 65:00 Score: 3 5
+ 65:03 TeamScore: 1 10 ^1RED
+ 65:03 TeamScore: 2 13 ^4BLUE
+ 65:10 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 65:10 Score: 2 29
+ 65:13 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 65:13 Score: 2 30
+ 65:18 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 65:18 Score: 7 14
+ 65:19 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 65:19 Score: 4 13
+ 65:29 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 65:29 Score: 0 18
+ 65:30 Kill: 7 1 10: Slash killed Visor by MOD_RAILGUN
+ 65:30 Score: 7 15
+ 65:33 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 65:33 Score: 7 16
+ 65:35 Kill: 7 5 0: Slash killed Gorre by MOD_UNKNOWN
+ 65:35 Score: 7 17
+ 65:36 Kill: 7 4 0: Slash killed Razor by MOD_UNKNOWN
+ 65:36 Score: 7 18
+ 65:36 TeamScore: 1 11 ^1RED
+ 65:36 TeamScore: 2 13 ^4BLUE
+ 65:46 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 65:46 Score: 2 31
+ 65:51 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 65:51 Score: 7 19
+ 65:54 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 65:54 Score: 5 19
+ 65:54 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 65:54 Score: 1 21
+ 65:54 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 65:54 Score: 2 32
+ 65:58 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 65:58 Score: 1 22
+ 66:01 TeamScore: 1 11 ^1RED
+ 66:01 TeamScore: 2 14 ^4BLUE
+ 66:07 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+ 66:07 Score: 3 6
+ 66:08 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 66:08 Score: 0 19
+ 66:12 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 66:12 Score: 6 20
+ 66:22 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 66:22 Score: 5 20
+ 66:29 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 66:29 Score: 6 21
+ 66:37 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 66:37 Score: 2 33
+ 66:39 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 66:39 Score: 2 34
+ 66:42 TeamScore: 1 11 ^1RED
+ 66:42 TeamScore: 2 15 ^4BLUE
+ 66:49 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 66:49 Score: 4 14
+ 66:50 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 66:50 Score: 0 20
+ 66:54 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 66:54 Score: 7 20
+ 66:55 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 66:55 Score: 0 21
+ 66:59 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 66:59 Score: 5 21
+ 67:00 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 67:00 Score: 1 23
+ 67:01 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 67:01 Score: 5 22
+ 67:04 TeamScore: 1 12 ^1RED
+ 67:04 TeamScore: 2 15 ^4BLUE
+ 67:07 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 67:07 Score: 2 35
+ 67:10 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+ 67:10 Score: 1 24
+ 67:12 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 67:12 Score: 1 25
+ 67:17 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 67:17 Score: 0 22
+ 67:20 TeamScore: 1 12 ^1RED
+ 67:20 TeamScore: 2 16 ^4BLUE
+ 67:30 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 67:30 Score: 2 36
+ 67:33 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 67:33 Score: 5 23
+ 68:55 Kill: 1022 4 0: <world> killed Razor by MOD_UNKNOWN
+ 68:58 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+ 69:15 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+ 69:15 Score: 4 15
+ 69:18 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 69:18 Score: 4 16
+ 69:19 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 69:19 Score: 2 37
+ 70:16 Kill: 1022 1 0: <world> killed Visor by MOD_UNKNOWN
+ 70:22 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 70:44 Kill: 1022 4 0: <world> killed Razor by MOD_UNKNOWN
+ 70:49 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 70:49 Score: 1 26
+ 70:52 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+ 70:52 Score: 1 27
+ 70:56 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 70:56 Score: 2 38
+ 71:09 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 71:09 Score: 5 24
+ 71:12 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 71:12 Score: 5 25
+ 71:14 Kill: 2 1 18: ^6L^3akerbo^6T killed Visor by MOD_TELEFRAG
+ 71:14 Score: 2 37
+ 71:16 sayteam: Visor: why are you shooting at me lakerbot 1
+ 71:19 Kill: 5 4 0: Gorre killed Razor by MOD_UNKNOWN
+ 71:19 Score: 5 26
+ 71:25 Kill: 2 0 0: ^6L^3akerbo^6T killed Orbb by MOD_UNKNOWN
+ 71:25 Score: 2 38
+ 71:26 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 71:26 Score: 1 28
+ 71:32 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 71:32 Score: 0 23
+ 71:35 TeamScore: 1 12 ^1RED
+ 71:35 TeamScore: 2 17 ^4BLUE
+ 71:44 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 71:44 Score: 4 17
+ 71:46 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+ 71:46 Score: 4 18
+ 71:46 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 71:46 Score: 7 21
+ 71:54 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 71:54 Score: 4 19
+ 71:57 TeamScore: 1 13 ^1RED
+ 71:57 TeamScore: 2 17 ^4BLUE
+ 72:06 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 72:06 Score: 0 24
+ 72:07 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 72:07 Score: 1 29
+ 72:08 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 72:08 Score: 0 25
+ 72:23 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 72:23 Score: 6 22
+ 72:25 Kill: 6 1 10: Crash killed Visor by MOD_RAILGUN
+ 72:25 Score: 6 23
+ 72:41 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 72:41 Score: 6 24
+ 72:52 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 72:52 Score: 6 25
+ 72:55 TeamScore: 1 14 ^1RED
+ 72:55 TeamScore: 2 17 ^4BLUE
+ 73:00 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 73:00 Score: 4 20
+ 73:08 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 73:08 Score: 0 26
+ 73:13 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 73:13 Score: 2 39
+ 73:20 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 73:20 Score: 1 30
+ 73:43 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 73:43 Score: 1 31
+ 73:46 TeamScore: 1 14 ^1RED
+ 73:46 TeamScore: 2 18 ^4BLUE
+ 73:51 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 73:51 Score: 0 27
+ 73:55 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 73:55 Score: 1 32
+ 74:03 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 74:03 Score: 6 26
+ 74:05 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 74:05 Score: 1 33
+ 74:09 Kill: 7 4 0: Slash killed Razor by MOD_UNKNOWN
+ 74:09 Score: 7 22
+ 74:22 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 74:22 Score: 2 40
+ 74:28 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+ 74:28 Score: 3 7
+ 74:31 TeamScore: 1 14 ^1RED
+ 74:31 TeamScore: 2 19 ^4BLUE
+ 74:35 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 74:35 Score: 0 28
+ 74:40 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 74:40 Score: 5 27
+ 74:41 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 74:41 Score: 1 34
+ 74:42 Kill: 7 1 10: Slash killed Visor by MOD_RAILGUN
+ 74:42 Score: 7 23
+ 74:43 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 74:43 Score: 2 41
+ 74:44 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 74:44 Score: 0 29
+ 74:47 TeamScore: 1 14 ^1RED
+ 74:47 TeamScore: 2 20 ^4BLUE
+ 74:51 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 74:51 Score: 2 42
+ 74:52 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 74:52 Score: 5 28
+ 74:59 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 74:59 Score: 2 43
+ 75:18 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 75:18 Score: 7 24
+ 75:25 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 75:25 Score: 6 27
+ 75:31 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 75:31 Score: 2 44
+ 75:40 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 75:40 Score: 2 45
+ 75:43 TeamScore: 1 14 ^1RED
+ 75:43 TeamScore: 2 21 ^4BLUE
+ 75:52 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 75:52 Score: 6 28
+ 75:56 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 75:56 Score: 2 46
+ 76:00 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 76:00 Score: 2 47
+ 76:01 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 76:01 Score: 2 48
+ 76:02 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 76:02 Score: 6 29
+ 76:05 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 76:05 Score: 1 35
+ 76:08 TeamScore: 1 14 ^1RED
+ 76:08 TeamScore: 2 22 ^4BLUE
+ 76:12 Kill: 3 6 2: ^3Mr.^4Gauntlet killed Crash by MOD_GAUNTLET
+ 76:12 Score: 3 8
+ 76:13 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 76:13 Score: 7 25
+ 76:13 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+ 76:13 Score: 5 29
+ 76:14 Kill: 7 1 10: Slash killed Visor by MOD_RAILGUN
+ 76:14 Score: 7 26
+ 76:19 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 76:19 Score: 4 21
+ 76:22 TeamScore: 1 15 ^1RED
+ 76:22 TeamScore: 2 22 ^4BLUE
+ 76:26 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 76:26 Score: 0 30
+ 76:27 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 76:27 Score: 7 27
+ 76:30 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 76:30 Score: 7 28
+ 76:31 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 76:31 Score: 2 49
+ 76:32 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 76:32 Score: 2 50
+ 76:48 Kill: 1 6 10: Visor killed Crash by MOD_RAILGUN
+ 76:48 Score: 1 36
+ 76:51 TeamScore: 1 15 ^1RED
+ 76:51 TeamScore: 2 23 ^4BLUE
+ 76:58 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 76:58 Score: 6 30
+ 77:06 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 77:06 Score: 2 51
+ 77:09 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 77:09 Score: 5 30
+ 77:10 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 77:10 Score: 2 52
+ 77:12 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 77:12 Score: 2 53
+ 77:16 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 77:16 Score: 2 54
+ 77:19 TeamScore: 1 15 ^1RED
+ 77:19 TeamScore: 2 24 ^4BLUE
+ 77:21 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 77:21 Score: 5 31
+ 77:32 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 77:32 Score: 6 31
+ 77:40 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 77:40 Score: 6 32
+ 77:42 Kill: 3 2 0: ^3Mr.^4Gauntlet killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 77:42 Score: 3 9
+ 77:45 Kill: 1022 3 16: <world> killed ^3Mr.^4Gauntlet by MOD_LAVA
+ 77:45 Score: 3 8
+ 77:50 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 77:50 Score: 2 55
+ 77:51 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 78:00 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 78:00 Score: 2 56
+ 78:02 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 78:02 Score: 2 57
+ 78:06 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+ 78:06 Score: 3 9
+ 78:09 TeamScore: 1 15 ^1RED
+ 78:09 TeamScore: 2 25 ^4BLUE
+ 78:13 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 78:13 Score: 2 58
+ 78:17 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 78:17 Score: 2 59
+ 78:17 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 78:17 Score: 7 29
+ 78:26 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 78:26 Score: 6 33
+ 78:33 Kill: 1 7 10: Visor killed Slash by MOD_RAILGUN
+ 78:33 Score: 1 37
+ 78:42 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 78:42 Score: 2 60
+ 78:45 TeamScore: 1 15 ^1RED
+ 78:45 TeamScore: 2 26 ^4BLUE
+ 78:47 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 78:47 Score: 2 61
+ 78:49 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 78:49 Score: 2 62
+ 79:00 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 79:00 Score: 2 63
+ 79:05 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 79:05 Score: 0 31
+ 79:08 TeamScore: 1 15 ^1RED
+ 79:08 TeamScore: 2 27 ^4BLUE
+ 79:13 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 79:13 Score: 2 64
+ 79:13 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 79:13 Score: 6 34
+ 79:16 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+ 79:16 Score: 4 22
+ 79:22 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 79:22 Score: 6 35
+ 79:28 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 79:28 Score: 2 65
+ 79:28 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 79:28 Score: 5 32
+ 79:31 TeamScore: 1 16 ^1RED
+ 79:31 TeamScore: 2 27 ^4BLUE
+ 79:38 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+ 79:38 Score: 3 10
+ 79:38 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 79:38 Score: 5 33
+ 79:42 Kill: 5 3 10: Gorre killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 79:42 Score: 5 34
+ 79:42 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 79:42 Score: 1 38
+ 79:48 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 79:48 Score: 0 32
+ 79:56 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 79:56 Score: 0 33
+ 79:59 TeamScore: 1 16 ^1RED
+ 79:59 TeamScore: 2 28 ^4BLUE
+ 80:08 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 80:08 Score: 6 36
+ 80:08 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 80:08 Score: 1 39
+ 80:10 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 80:10 Score: 2 66
+ 80:13 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 80:13 Score: 4 23
+ 80:15 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+ 80:15 Score: 1 40
+ 80:20 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 80:20 Score: 2 67
+ 80:23 TeamScore: 1 16 ^1RED
+ 80:23 TeamScore: 2 29 ^4BLUE
+ 80:29 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 80:29 Score: 0 34
+ 80:29 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 80:29 Score: 7 30
+ 80:30 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+ 80:30 Score: 1 41
+ 80:39 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+ 80:39 Score: 2 68
+ 80:40 Kill: 7 1 10: Slash killed Visor by MOD_RAILGUN
+ 80:40 Score: 7 31
+ 80:52 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 80:52 Score: 7 32
+ 81:00 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 81:00 Score: 2 69
+ 81:03 TeamScore: 1 16 ^1RED
+ 81:03 TeamScore: 2 30 ^4BLUE
+ 81:03 Exit: Fraglimit hit.
+ 81:03 red:16  blue:30
+ 81:03 score: 69  ping: 0  client: 2 ^6L^3akerbo^6T
+ 81:03 score: 41  ping: 0  client: 1 Visor
+ 81:03 score: 36  ping: 0  client: 6 Crash
+ 81:03 score: 34  ping: 0  client: 5 Gorre
+ 81:03 score: 34  ping: 0  client: 0 Orbb
+ 81:03 score: 32  ping: 0  client: 7 Slash
+ 81:03 score: 23  ping: 0  client: 4 Razor
+ 81:03 score: 10  ping: 0  client: 3 ^3Mr.^4Gauntlet
+ 81:03 Weapon_Stats: 0 Railgun:190:33:0:0 Hook:59:0:0:0 Given:8250 Recvd:8500 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 1 Railgun:207:39:0:0 Hook:72:0:0:0 Given:9750 Recvd:7300 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 2 Railgun:275:74:0:0 Hook:66:1:0:0 Given:18300 Recvd:5500 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 3 Gauntlet:23:10:0:0 Given:4000 Recvd:9000 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 4 Railgun:153:22:0:0 Hook:52:0:0:0 Given:5500 Recvd:12400 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 5 Railgun:162:35:0:0 Hook:65:0:0:0 Given:8750 Recvd:9300 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 6 Railgun:207:34:0:0 Hook:69:1:0:0 Given:8800 Recvd:9025 Armor:0 Health:0 TeamDmg:0
+ 81:03 Weapon_Stats: 7 Railgun:174:29:0:0 Hook:64:0:0:0 Given:7250 Recvd:9575 Armor:0 Health:0 TeamDmg:0
+ 81:09 ClientUserinfoChanged: 1 n\Visor\t\1\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\1
+ 81:09 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\1\l\0\skill\2\tt\0\tl\1
+ 81:09 ShutdownGame:
+ 81:09 ------------------------------------------------------------
+ 81:09 ------------------------------------------------------------
+ 81:09 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\1:21:06\Info\jT	3	g u	2 2 2 2 1 1 1 1 	2 2 2 2 2 2 2 2 	jT jT jT jT jT jT jT jT 	
+ 81:09 ServerTime: 20141228132809 13:28:09 (28 Dec 2014)
+ 81:09 TeamName: 1 ^1RED
+ 81:09 TeamName: 2 ^4BLUE
+ 81:09 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 81:09 ClientBegin: 0
+ 81:09 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 1 n\Visor\t\1\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 81:09 ClientBegin: 1
+ 81:09 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\2\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:09 ClientBegin: 2
+ 81:09 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 3 n\^3Mr.^4Gauntlet\t\2\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:09 ClientBegin: 3
+ 81:09 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:09 ClientBegin: 4
+ 81:09 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:09 ClientBegin: 5
+ 81:09 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 6 n\Crash\t\1\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:09 ClientBegin: 6
+ 81:09 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:09 ClientUserinfoChanged: 7 n\Slash\t\1\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:09 ClientBegin: 7
+ 81:09 Warmup:
+ 81:14 ShutdownGame:
+ 81:14 ------------------------------------------------------------
+ 81:14 ------------------------------------------------------------
+ 81:14 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\1:21:12\Info\5	2	 	2 1 2 2 1 2 1 1 	2 2 2 2 2 2 2 2 	5 5 5 5 5 5 5 5 	
+ 81:14 ServerTime: 20141228132814 13:28:14 (28 Dec 2014)
+ 81:14 TeamName: 1 ^1RED
+ 81:14 TeamName: 2 ^4BLUE
+ 81:14 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 0 n\Orbb\t\2\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 81:14 ClientBegin: 0
+ 81:14 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 1 n\Visor\t\1\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+ 81:14 ClientBegin: 1
+ 81:14 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\2\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:14 ClientBegin: 2
+ 81:14 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 3 n\^3Mr.^4Gauntlet\t\2\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:14 ClientBegin: 3
+ 81:14 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:14 ClientBegin: 4
+ 81:14 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:14 ClientBegin: 5
+ 81:14 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 6 n\Crash\t\1\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:14 ClientBegin: 6
+ 81:14 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 81:14 ClientUserinfoChanged: 7 n\Slash\t\1\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+ 81:14 ClientBegin: 7
+ 81:16 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 81:16 Score: 4 1
+ 81:18 sayteam: Gorre: I'm the team leader 5
+ 81:19 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+ 81:19 Score: 3 1
+ 81:19 sayteam: Slash: I am the team leader 7
+ 81:19 sayteam: Visor: I am the team leader 1
+ 81:20 Kill: 7 5 10: Slash killed Gorre by MOD_RAILGUN
+ 81:20 Score: 7 1
+ 81:20 sayteam: Razor: I am the team leader 4
+ 81:21 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 81:21 Score: 2 1
+ 81:22 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 81:22 Score: 2 2
+ 81:22 Kill: 3 1 2: ^3Mr.^4Gauntlet killed Visor by MOD_GAUNTLET
+ 81:22 Score: 3 2
+ 81:25 TeamScore: 1 0 ^1RED
+ 81:25 TeamScore: 2 1 ^4BLUE
+ 81:30 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 81:30 Score: 7 2
+ 81:32 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 81:32 Score: 6 1
+ 81:35 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 81:35 Score: 6 2
+ 81:39 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 81:39 Score: 2 3
+ 81:42 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 81:42 Score: 7 3
+ 81:45 TeamScore: 1 1 ^1RED
+ 81:45 TeamScore: 2 1 ^4BLUE
+ 81:50 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 81:50 Score: 1 1
+ 81:53 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 81:53 Score: 1 2
+ 81:53 Kill: 1022 0 0: <world> killed Orbb by MOD_UNKNOWN
+ 81:54 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 81:54 Score: 2 4
+ 81:54 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 81:54 Score: 2 5
+ 82:00 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 82:00 Score: 6 3
+ 82:02 Kill: 3 6 2: ^3Mr.^4Gauntlet killed Crash by MOD_GAUNTLET
+ 82:02 Score: 3 3
+ 82:07 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 82:08 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 82:08 Score: 7 4
+ 82:09 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 82:09 Score: 0 1
+ 82:12 TeamScore: 1 1 ^1RED
+ 82:12 TeamScore: 2 2 ^4BLUE
+ 82:17 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 82:17 Score: 6 4
+ 82:24 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 82:24 Score: 5 1
+ 82:25 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 82:25 Score: 4 2
+ 82:40 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 82:40 Score: 0 2
+ 82:41 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 82:41 Score: 2 6
+ 82:48 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 82:48 Score: 2 7
+ 82:51 TeamScore: 1 1 ^1RED
+ 82:51 TeamScore: 2 3 ^4BLUE
+ 82:54 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 82:54 Score: 5 2
+ 82:54 Kill: 3 1 2: ^3Mr.^4Gauntlet killed Visor by MOD_GAUNTLET
+ 82:54 Score: 3 4
+ 82:57 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 82:57 Score: 5 3
+ 83:04 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 83:04 Score: 5 4
+ 83:07 TeamScore: 1 1 ^1RED
+ 83:07 TeamScore: 2 4 ^4BLUE
+ 83:13 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 83:13 Score: 2 8
+ 83:14 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 83:14 Score: 0 3
+ 83:14 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 83:14 Score: 2 9
+ 83:17 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 83:17 Score: 0 4
+ 83:20 TeamScore: 1 1 ^1RED
+ 83:20 TeamScore: 2 5 ^4BLUE
+ 83:25 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 83:25 Score: 6 5
+ 83:29 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 83:29 Score: 2 10
+ 83:31 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 83:31 Score: 2 11
+ 83:33 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 83:33 Score: 2 12
+ 83:40 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 83:40 Score: 1 3
+ 83:45 Kill: 1 6 0: Visor killed Crash by MOD_UNKNOWN
+ 83:45 Score: 1 4
+ 83:50 Kill: 3 1 2: ^3Mr.^4Gauntlet killed Visor by MOD_GAUNTLET
+ 83:50 Score: 3 5
+ 83:56 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 83:56 Score: 6 6
+ 83:56 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 83:56 Score: 5 5
+ 83:58 Kill: 5 2 0: Gorre killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 83:58 Score: 5 6
+ 83:59 TeamScore: 1 1 ^1RED
+ 83:59 TeamScore: 2 6 ^4BLUE
+ 84:06 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 84:06 Score: 4 3
+ 84:07 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 84:07 Score: 6 7
+ 84:11 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 84:11 Score: 2 13
+ 84:14 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 84:14 Score: 2 14
+ 84:17 Kill: 1022 2 16: <world> killed ^6L^3akerbo^6T by MOD_LAVA
+ 84:17 Score: 2 13
+ 84:23 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 84:29 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 84:29 Score: 5 7
+ 84:31 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 84:31 Score: 2 14
+ 84:34 TeamScore: 1 1 ^1RED
+ 84:34 TeamScore: 2 7 ^4BLUE
+ 84:42 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 84:42 Score: 7 5
+ 84:46 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 84:46 Score: 7 6
+ 84:49 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 84:49 Score: 1 5
+ 84:57 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 84:57 Score: 5 8
+ 85:00 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 85:00 Score: 5 9
+ 85:00 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 85:00 Score: 4 4
+ 85:03 TeamScore: 1 2 ^1RED
+ 85:03 TeamScore: 2 7 ^4BLUE
+ 85:08 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 85:08 Score: 6 8
+ 85:10 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 85:10 Score: 7 7
+ 85:11 Kill: 7 5 10: Slash killed Gorre by MOD_RAILGUN
+ 85:11 Score: 7 8
+ 85:15 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 85:15 Score: 1 6
+ 85:18 TeamScore: 1 3 ^1RED
+ 85:18 TeamScore: 2 7 ^4BLUE
+ 85:23 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 85:23 Score: 0 5
+ 85:30 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 85:30 Score: 6 9
+ 85:31 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 85:31 Score: 6 10
+ 85:31 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 85:31 Score: 0 6
+ 85:32 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 85:32 Score: 2 15
+ 85:32 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 85:32 Score: 1 7
+ 85:47 Kill: 1 6 0: Visor killed Crash by MOD_UNKNOWN
+ 85:47 Score: 1 8
+ 85:51 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 85:51 Score: 0 7
+ 85:54 Kill: 0 2 0: Orbb killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 85:54 Score: 0 8
+ 86:00 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 86:00 Score: 2 16
+ 86:03 TeamScore: 1 3 ^1RED
+ 86:03 TeamScore: 2 8 ^4BLUE
+ 86:08 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 86:08 Score: 5 10
+ 86:17 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 86:17 Score: 4 5
+ 86:18 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 86:18 Score: 2 17
+ 86:19 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 86:19 Score: 0 9
+ 86:34 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 86:34 Score: 0 10
+ 86:37 TeamScore: 1 3 ^1RED
+ 86:37 TeamScore: 2 9 ^4BLUE
+ 86:44 Kill: 2 6 23: ^6L^3akerbo^6T killed Crash by MOD_GRAPPLE
+ 86:44 Score: 2 18
+ 86:46 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 86:46 Score: 1 9
+ 86:50 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 86:50 Score: 1 10
+ 86:51 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 86:51 Score: 4 6
+ 86:53 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 86:53 Score: 7 9
+ 86:56 TeamScore: 1 4 ^1RED
+ 86:56 TeamScore: 2 9 ^4BLUE
+ 87:01 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 87:01 Score: 7 10
+ 87:03 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 87:03 Score: 2 19
+ 87:04 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 87:04 Score: 1 11
+ 87:04 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 87:04 Score: 2 20
+ 87:09 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 87:09 Score: 2 21
+ 88:22 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 88:24 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 88:29 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 88:29 Kill: 1022 4 0: <world> killed Razor by MOD_UNKNOWN
+ 88:34 Kill: 1022 1 0: <world> killed Visor by MOD_UNKNOWN
+ 88:36 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 88:36 Score: 5 11
+ 88:36 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 88:36 Score: 2 22
+ 88:38 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 88:38 Score: 5 12
+ 88:40 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 88:40 Score: 2 23
+ 88:43 TeamScore: 1 4 ^1RED
+ 88:43 TeamScore: 2 10 ^4BLUE
+ 88:51 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 88:51 Score: 1 12
+ 88:57 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 88:57 Score: 5 13
+ 89:00 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 89:00 Score: 5 14
+ 89:05 Kill: 5 3 0: Gorre killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 89:05 Score: 5 15
+ 89:10 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 89:10 Score: 2 24
+ 89:20 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+ 89:20 Score: 3 6
+ 89:23 TeamScore: 1 4 ^1RED
+ 89:23 TeamScore: 2 11 ^4BLUE
+ 89:26 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 89:26 Score: 6 11
+ 89:31 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 89:31 Score: 2 25
+ 89:33 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 89:33 Score: 0 11
+ 89:38 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 89:38 Score: 0 12
+ 89:40 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 89:40 Score: 4 7
+ 89:42 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 89:42 Score: 4 8
+ 90:00 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 90:00 Score: 4 9
+ 90:03 TeamScore: 1 5 ^1RED
+ 90:03 TeamScore: 2 11 ^4BLUE
+ 90:10 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 90:10 Score: 2 26
+ 90:12 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 90:12 Score: 4 10
+ 90:12 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 90:12 Score: 1 13
+ 90:14 Kill: 1022 3 16: <world> killed ^3Mr.^4Gauntlet by MOD_LAVA
+ 90:14 Score: 3 5
+ 90:16 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 90:16 Score: 2 27
+ 90:19 Kill: 1022 2 16: <world> killed ^6L^3akerbo^6T by MOD_LAVA
+ 90:19 Score: 2 26
+ 90:20 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 90:25 Kill: 1022 2 0: <world> killed ^6L^3akerbo^6T by MOD_UNKNOWN
+ 90:32 Kill: 1022 4 16: <world> killed Razor by MOD_LAVA
+ 90:32 Score: 4 9
+ 90:38 Kill: 1022 4 0: <world> killed Razor by MOD_UNKNOWN
+ 90:44 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 90:44 Score: 2 27
+ 90:45 Kill: 3 0 0: ^3Mr.^4Gauntlet killed Orbb by MOD_UNKNOWN
+ 90:45 Score: 3 6
+ 90:51 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 90:51 Score: 2 28
+ 90:54 TeamScore: 1 5 ^1RED
+ 90:54 TeamScore: 2 12 ^4BLUE
+ 91:00 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 91:00 Score: 1 14
+ 91:03 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 91:03 Score: 2 29
+ 91:13 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 91:13 Score: 4 10
+ 91:14 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 91:14 Score: 2 30
+ 91:16 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+ 91:16 Score: 5 14
+ 91:18 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 91:18 Score: 6 12
+ 91:19 Kill: 7 1 0: Slash killed Visor by MOD_UNKNOWN
+ 91:19 Score: 7 11
+ 91:20 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 91:22 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 91:24 Kill: 3 1 2: ^3Mr.^4Gauntlet killed Visor by MOD_GAUNTLET
+ 91:24 Score: 3 7
+ 91:29 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 91:29 Score: 6 13
+ 91:34 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 91:34 Score: 5 15
+ 91:34 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 91:34 Score: 6 14
+ 91:37 TeamScore: 1 6 ^1RED
+ 91:37 TeamScore: 2 12 ^4BLUE
+ 91:41 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 91:41 Score: 5 16
+ 91:42 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 91:42 Score: 0 13
+ 91:44 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 91:44 Score: 2 31
+ 91:45 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 91:45 Score: 4 11
+ 91:47 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+ 91:47 Score: 3 8
+ 91:50 TeamScore: 1 6 ^1RED
+ 91:50 TeamScore: 2 13 ^4BLUE
+ 91:55 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 91:55 Score: 5 17
+ 91:58 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 91:58 Score: 1 15
+ 92:01 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 92:01 Score: 2 32
+ 92:06 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 92:06 Score: 4 12
+ 92:06 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 92:06 Score: 2 33
+ 92:09 Kill: 1022 1 0: <world> killed Visor by MOD_UNKNOWN
+ 92:13 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 92:13 Score: 6 15
+ 92:15 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+ 92:15 Score: 6 16
+ 92:18 TeamScore: 1 7 ^1RED
+ 92:18 TeamScore: 2 13 ^4BLUE
+ 92:24 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 92:24 Score: 5 18
+ 92:27 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 92:27 Score: 2 34
+ 92:30 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 92:30 Score: 2 35
+ 92:33 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 92:33 Score: 0 14
+ 92:36 TeamScore: 1 7 ^1RED
+ 92:36 TeamScore: 2 14 ^4BLUE
+ 92:40 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 92:40 Score: 2 36
+ 92:42 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+ 92:42 Score: 3 9
+ 92:47 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 92:47 Score: 4 13
+ 92:48 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 92:48 Score: 4 14
+ 92:50 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 92:50 Score: 0 15
+ 92:51 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 92:51 Score: 6 17
+ 92:54 Kill: 0 5 0: Orbb killed Gorre by MOD_UNKNOWN
+ 92:54 Score: 0 16
+ 92:59 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 92:59 Score: 5 19
+ 93:02 TeamScore: 1 7 ^1RED
+ 93:02 TeamScore: 2 15 ^4BLUE
+ 93:06 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 93:06 Score: 7 12
+ 93:08 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 93:08 Score: 7 13
+ 93:11 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 93:11 Score: 7 14
+ 93:14 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 93:14 Score: 4 15
+ 93:17 TeamScore: 1 8 ^1RED
+ 93:17 TeamScore: 2 15 ^4BLUE
+ 93:22 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 93:22 Score: 6 18
+ 93:24 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 93:24 Score: 7 15
+ 93:26 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 93:26 Score: 4 16
+ 93:33 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 93:33 Score: 2 37
+ 93:38 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 93:38 Score: 2 38
+ 93:45 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 93:45 Score: 2 39
+ 93:46 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 93:46 Score: 2 40
+ 93:49 TeamScore: 1 8 ^1RED
+ 93:49 TeamScore: 2 16 ^4BLUE
+ 93:56 Kill: 3 6 2: ^3Mr.^4Gauntlet killed Crash by MOD_GAUNTLET
+ 93:56 Score: 3 10
+ 93:58 Kill: 7 5 10: Slash killed Gorre by MOD_RAILGUN
+ 93:58 Score: 7 16
+ 94:10 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 94:10 Score: 1 16
+ 94:12 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 94:12 Score: 1 17
+ 94:25 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 94:25 Score: 2 41
+ 94:27 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 94:27 Score: 2 42
+ 94:37 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 94:37 Score: 4 17
+ 94:40 TeamScore: 1 9 ^1RED
+ 94:40 TeamScore: 2 16 ^4BLUE
+ 94:45 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 94:45 Score: 5 20
+ 94:45 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 94:45 Score: 2 43
+ 94:56 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 94:56 Score: 2 44
+ 95:02 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 95:02 Score: 2 45
+ 95:05 TeamScore: 1 9 ^1RED
+ 95:05 TeamScore: 2 17 ^4BLUE
+ 95:10 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 95:10 Score: 2 46
+ 95:13 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 95:13 Score: 5 21
+ 95:15 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 95:15 Score: 1 18
+ 95:16 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 95:16 Score: 4 18
+ 95:17 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 95:17 Score: 2 47
+ 95:26 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 95:26 Score: 4 19
+ 95:30 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 95:30 Score: 2 48
+ 95:33 TeamScore: 1 9 ^1RED
+ 95:33 TeamScore: 2 18 ^4BLUE
+ 95:41 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 95:41 Score: 0 17
+ 95:43 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 95:43 Score: 4 20
+ 95:46 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 95:46 Score: 7 17
+ 95:47 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+ 95:47 Score: 5 20
+ 95:49 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 95:49 Score: 0 18
+ 95:53 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 95:55 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+ 95:55 Score: 4 21
+ 95:56 Kill: 1022 7 16: <world> killed Slash by MOD_LAVA
+ 95:56 Score: 7 16
+ 96:02 Kill: 1022 7 0: <world> killed Slash by MOD_UNKNOWN
+ 96:06 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+ 96:06 Score: 4 22
+ 96:09 TeamScore: 1 10 ^1RED
+ 96:09 TeamScore: 2 18 ^4BLUE
+ 96:15 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 96:15 Score: 5 21
+ 96:17 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 96:17 Score: 7 17
+ 96:17 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+ 96:17 Score: 5 22
+ 96:18 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 96:18 Score: 5 23
+ 96:23 Kill: 5 3 0: Gorre killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 96:23 Score: 5 24
+ 96:26 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 96:26 Score: 0 19
+ 96:29 TeamScore: 1 10 ^1RED
+ 96:29 TeamScore: 2 19 ^4BLUE
+ 96:33 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 96:33 Score: 7 18
+ 96:37 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 96:37 Score: 0 20
+ 96:38 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 96:38 Score: 2 49
+ 96:41 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 96:41 Score: 1 19
+ 96:42 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 96:42 Score: 5 25
+ 96:43 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 96:43 Score: 2 50
+ 96:46 TeamScore: 1 10 ^1RED
+ 96:46 TeamScore: 2 20 ^4BLUE
+ 96:50 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 96:50 Score: 1 20
+ 96:50 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 96:50 Score: 6 19
+ 96:55 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 96:55 Score: 1 21
+ 96:56 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 96:56 Score: 0 21
+ 96:58 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 96:58 Score: 0 22
+ 97:07 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 97:07 Score: 0 23
+ 97:20 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 97:20 Score: 7 19
+ 97:23 TeamScore: 1 11 ^1RED
+ 97:23 TeamScore: 2 20 ^4BLUE
+ 97:28 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 97:28 Score: 1 22
+ 97:29 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 97:29 Score: 7 20
+ 97:35 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 97:35 Score: 2 51
+ 97:38 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 97:38 Score: 5 26
+ 97:42 Kill: 2 3 0: ^6L^3akerbo^6T killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 97:42 Score: 2 52
+ 97:44 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 97:44 Score: 2 53
+ 97:47 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 97:47 Score: 6 20
+ 97:50 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 97:50 Score: 2 54
+ 97:53 TeamScore: 1 11 ^1RED
+ 97:53 TeamScore: 2 21 ^4BLUE
+ 97:58 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 97:58 Score: 7 21
+ 97:59 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 97:59 Score: 1 23
+ 98:07 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 98:07 Score: 7 22
+ 98:12 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 98:12 Score: 2 55
+ 98:16 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 98:16 Score: 4 23
+ 98:19 TeamScore: 1 12 ^1RED
+ 98:19 TeamScore: 2 21 ^4BLUE
+ 98:23 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+ 98:23 Score: 1 24
+ 98:24 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 98:24 Score: 4 24
+ 98:29 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 98:29 Score: 1 25
+ 98:32 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+ 98:32 Score: 5 27
+ 98:35 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+ 98:35 Score: 1 26
+ 98:38 TeamScore: 1 13 ^1RED
+ 98:38 TeamScore: 2 21 ^4BLUE
+ 98:42 Kill: 7 5 10: Slash killed Gorre by MOD_RAILGUN
+ 98:42 Score: 7 23
+ 98:48 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 98:48 Score: 2 56
+ 98:49 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+ 98:49 Score: 7 24
+ 98:51 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 98:51 Score: 1 27
+ 99:03 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+ 99:03 Score: 2 57
+ 99:09 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+ 99:09 Score: 2 58
+ 99:11 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+ 99:11 Score: 6 21
+ 99:14 TeamScore: 1 14 ^1RED
+ 99:14 TeamScore: 2 21 ^4BLUE
+ 99:19 Kill: 7 3 10: Slash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 99:19 Score: 7 25
+ 99:24 Kill: 0 7 10: Orbb killed Slash by MOD_RAILGUN
+ 99:24 Score: 0 24
+ 99:26 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+ 99:26 Score: 2 59
+ 99:26 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 99:26 Score: 0 25
+ 99:26 Kill: 1022 3 0: <world> killed ^3Mr.^4Gauntlet by MOD_UNKNOWN
+ 99:28 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 99:28 Score: 2 60
+ 99:31 TeamScore: 1 14 ^1RED
+ 99:31 TeamScore: 2 22 ^4BLUE
+ 99:37 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 99:37 Score: 0 26
+ 99:38 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+ 99:38 Score: 6 22
+ 99:38 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+ 99:38 Score: 3 11
+ 99:38 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+ 99:38 Score: 0 27
+ 99:40 Kill: 1 4 0: Visor killed Razor by MOD_UNKNOWN
+ 99:40 Score: 1 28
+ 99:40 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+ 99:40 Score: 0 28
+ 99:48 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+ 99:48 Score: 4 25
+ 99:50 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+ 99:50 Score: 0 29
+ 99:51 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+ 99:53 TeamScore: 1 14 ^1RED
+ 99:53 TeamScore: 2 23 ^4BLUE
+ 99:57 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+ 99:57 Score: 5 28
+ 99:57 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+ 99:57 Score: 2 61
+ 99:57 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+ 99:57 Score: 5 29
+100:08 Kill: 3 7 2: ^3Mr.^4Gauntlet killed Slash by MOD_GAUNTLET
+100:08 Score: 3 12
+100:11 TeamScore: 1 14 ^1RED
+100:11 TeamScore: 2 24 ^4BLUE
+100:14 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+100:14 Score: 2 62
+100:15 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+100:15 Score: 2 63
+100:18 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+100:18 Score: 2 64
+100:19 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+100:19 Score: 2 65
+100:22 TeamScore: 1 14 ^1RED
+100:22 TeamScore: 2 25 ^4BLUE
+100:28 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+100:28 Score: 1 29
+100:29 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+100:29 Score: 1 30
+100:29 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+100:29 Score: 6 23
+100:34 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+100:34 Score: 2 66
+100:37 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+100:37 Score: 6 24
+100:40 TeamScore: 1 15 ^1RED
+100:40 TeamScore: 2 25 ^4BLUE
+100:43 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+100:43 Score: 1 31
+100:46 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+100:46 Score: 5 30
+100:48 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+100:48 Score: 1 32
+100:53 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+100:53 Score: 5 31
+100:58 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+100:58 Score: 1 33
+100:58 Kill: 3 1 2: ^3Mr.^4Gauntlet killed Visor by MOD_GAUNTLET
+100:58 Score: 3 13
+101:02 Kill: 3 0 0: ^3Mr.^4Gauntlet killed Orbb by MOD_UNKNOWN
+101:02 Score: 3 14
+101:06 Kill: 1022 6 16: <world> killed Crash by MOD_LAVA
+101:06 Score: 6 23
+101:09 TeamScore: 1 15 ^1RED
+101:09 TeamScore: 2 26 ^4BLUE
+101:15 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+101:15 Score: 2 67
+101:18 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+101:18 Score: 2 68
+101:22 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+101:22 Score: 2 69
+101:23 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+101:23 Score: 6 24
+101:24 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+101:24 Score: 5 32
+101:27 TeamScore: 1 15 ^1RED
+101:27 TeamScore: 2 27 ^4BLUE
+101:30 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+101:30 Score: 4 26
+101:32 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+101:32 Score: 4 27
+101:33 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+101:33 Score: 1 34
+101:34 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+101:34 Score: 0 30
+101:37 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+101:37 Score: 7 26
+101:40 TeamScore: 1 16 ^1RED
+101:40 TeamScore: 2 27 ^4BLUE
+101:45 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+101:45 Score: 1 35
+101:56 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+101:56 Score: 5 33
+101:56 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+101:56 Score: 4 28
+102:02 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+102:02 Score: 5 34
+102:07 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+102:07 Score: 1 36
+102:09 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+102:09 Score: 1 37
+102:12 TeamScore: 1 17 ^1RED
+102:12 TeamScore: 2 27 ^4BLUE
+102:18 Kill: 4 0 10: Razor killed Orbb by MOD_RAILGUN
+102:18 Score: 4 29
+102:20 Kill: 1 5 10: Visor killed Gorre by MOD_RAILGUN
+102:20 Score: 1 38
+102:21 Kill: 4 2 10: Razor killed ^6L^3akerbo^6T by MOD_RAILGUN
+102:21 Score: 4 30
+102:22 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+102:22 Score: 6 25
+102:25 TeamScore: 1 18 ^1RED
+102:25 TeamScore: 2 27 ^4BLUE
+102:30 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+102:30 Score: 0 31
+102:33 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+102:33 Score: 6 26
+102:36 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+102:36 Score: 4 31
+102:36 Kill: 3 4 2: ^3Mr.^4Gauntlet killed Razor by MOD_GAUNTLET
+102:36 Score: 3 15
+102:42 Kill: 6 0 10: Crash killed Orbb by MOD_RAILGUN
+102:42 Score: 6 27
+102:45 Kill: 6 3 10: Crash killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+102:45 Score: 6 28
+102:48 TeamScore: 1 19 ^1RED
+102:48 TeamScore: 2 27 ^4BLUE
+102:55 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+102:55 Score: 5 35
+102:57 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+102:57 Score: 7 27
+103:01 Kill: 4 3 10: Razor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+103:01 Score: 4 32
+103:02 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+103:02 Score: 5 36
+103:05 Kill: 5 6 10: Gorre killed Crash by MOD_RAILGUN
+103:05 Score: 5 37
+103:18 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+103:18 Score: 5 38
+103:21 TeamScore: 1 19 ^1RED
+103:21 TeamScore: 2 28 ^4BLUE
+103:25 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+103:25 Score: 2 70
+103:33 Kill: 1 3 10: Visor killed ^3Mr.^4Gauntlet by MOD_RAILGUN
+103:33 Score: 1 39
+103:33 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+103:33 Score: 0 32
+103:37 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+103:37 Score: 2 71
+103:43 Kill: 6 4 0: Crash killed Razor by MOD_UNKNOWN
+103:43 Score: 6 29
+103:47 Kill: 0 4 10: Orbb killed Razor by MOD_RAILGUN
+103:47 Score: 0 33
+103:51 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+103:51 Score: 2 72
+103:54 TeamScore: 1 19 ^1RED
+103:54 TeamScore: 2 29 ^4BLUE
+103:59 Kill: 5 7 10: Gorre killed Slash by MOD_RAILGUN
+103:59 Score: 5 39
+104:01 Kill: 5 1 10: Gorre killed Visor by MOD_RAILGUN
+104:01 Score: 5 40
+104:04 Kill: 6 5 10: Crash killed Gorre by MOD_RAILGUN
+104:04 Score: 6 30
+104:04 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+104:04 Score: 2 73
+104:11 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+104:14 Kill: 2 4 10: ^6L^3akerbo^6T killed Razor by MOD_RAILGUN
+104:14 Score: 2 74
+104:17 TeamScore: 1 19 ^1RED
+104:17 TeamScore: 2 30 ^4BLUE
+104:17 Exit: Fraglimit hit.
+104:17 red:19  blue:30
+104:17 score: 74  ping: 0  client: 2 ^6L^3akerbo^6T
+104:17 score: 40  ping: 0  client: 5 Gorre
+104:17 score: 39  ping: 0  client: 1 Visor
+104:17 score: 33  ping: 0  client: 0 Orbb
+104:17 score: 32  ping: 0  client: 4 Razor
+104:17 score: 30  ping: 0  client: 6 Crash
+104:17 score: 27  ping: 0  client: 7 Slash
+104:17 score: 15  ping: 0  client: 3 ^3Mr.^4Gauntlet
+104:17 Weapon_Stats: 0 Railgun:187:31:0:0 Hook:51:0:0:0 Given:7750 Recvd:7500 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 1 Railgun:180:36:0:0 Hook:66:0:0:0 Given:9000 Recvd:11000 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 2 Railgun:258:73:0:0 Hook:70:1:0:0 Given:18800 Recvd:6375 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 3 Gauntlet:15:14:0:0 Given:5600 Recvd:9500 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 4 Railgun:178:34:0:0 Hook:66:0:0:0 Given:8250 Recvd:10450 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 5 Railgun:154:39:0:0 Hook:61:0:0:0 Given:9750 Recvd:8500 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 6 Railgun:136:30:0:0 Hook:66:0:0:0 Given:7500 Recvd:9600 Armor:0 Health:0 TeamDmg:0
+104:17 Weapon_Stats: 7 Railgun:184:29:0:0 Hook:37:0:0:0 Given:7125 Recvd:10850 Armor:0 Health:0 TeamDmg:0
+104:23 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\2\l\0\skill\2\tt\0\tl\1
+104:23 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\3\l\0\skill\2\tt\0\tl\1
+104:23 ShutdownGame:
+104:23 ------------------------------------------------------------
+104:23 ------------------------------------------------------------
+104:23 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\1:44:20\Info\f^	3	j u	2 1 2 2 1 2 1 1 	2 2 2 2 2 2 2 2 	f^ f^ f^ f^ f^ f^ f^ f^ 	
+104:23 ServerTime: 20141228135123 13:51:23 (28 Dec 2014)
+104:23 TeamName: 1 ^1RED
+104:23 TeamName: 2 ^4BLUE
+104:23 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+104:23 ClientBegin: 0
+104:23 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+104:23 ClientBegin: 1
+104:23 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:23 ClientBegin: 2
+104:23 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 3 n\^3Mr.^1Gauntlet\t\1\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:23 ClientBegin: 3
+104:23 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:23 ClientBegin: 4
+104:23 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:23 ClientBegin: 5
+104:23 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 6 n\Crash\t\2\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:23 ClientBegin: 6
+104:23 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+104:23 ClientUserinfoChanged: 7 n\Slash\t\2\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:23 ClientBegin: 7
+104:23 Warmup:
+104:28 ShutdownGame:
+104:28 ------------------------------------------------------------
+104:28 ------------------------------------------------------------
+104:28 InitGame: \dmflags\0\fraglimit\30\timelimit\0\sv_hostname\>>> R@IL PRO <<<\sv_maxclients\16\sv_minRate\0\sv_maxRate\8000\sv_dlRate\100\capturelimit\0\sv_pure\0\sv_allowDownload\1\roundlimit\0\sv_punkbuster\0\g_redTeam\^1RED\g_blueTeam\^4BLUE\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86_64 Jan 18 2014\com_gamename\Quake3Arena\com_protocol\71\g_gametype\8\mapname\q3dm7\bot_minplayers\4\gamename\excessiveplus\g_needpass\0\xp_version\2.3 freeze.cfg 110271baafb4ec93dcb61ad489d1787d RailFreeze Dm7\xp_date\Jun 20 2014\Uptime\1:44:25\Info\5	2	 	1 2 1 1 1 2 2 2 	2 2 2 2 2 2 2 2 	5 5 5 5 5 5 5 5 	
+104:28 ServerTime: 20141228135127 13:51:27 (28 Dec 2014)
+104:28 TeamName: 1 ^1RED
+104:28 TeamName: 2 ^4BLUE
+104:28 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+104:28 ClientBegin: 0
+104:28 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+104:28 ClientBegin: 1
+104:28 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:28 ClientBegin: 2
+104:28 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 3 n\^3Mr.^1Gauntlet\t\1\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:28 ClientBegin: 3
+104:28 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 4 n\Razor\t\1\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:28 ClientBegin: 4
+104:28 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:28 ClientBegin: 5
+104:28 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 6 n\Crash\t\2\ts\0\model\crash\hmodel\crash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:28 ClientBegin: 6
+104:28 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+104:28 ClientUserinfoChanged: 7 n\Slash\t\2\ts\0\model\slash\hmodel\slash\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+104:28 ClientBegin: 7
+104:29 sayteam: ^6L^3akerbo^6T: I am the team leader 2
+104:30 sayteam: ^3Mr.^1Gauntlet: I am the team leader 3
+104:32 sayteam: Visor: I'm the team leader 1
+104:33 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+104:33 Score: 2 1
+104:34 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+104:34 Score: 5 1
+104:35 Kill: 4 1 10: Razor killed Visor by MOD_RAILGUN
+104:35 Score: 4 1
+104:36 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+104:36 Score: 2 2
+104:40 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+104:40 Score: 6 1
+104:47 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+104:47 Score: 2 3
+104:50 TeamScore: 1 1 ^1RED
+104:50 TeamScore: 2 0 ^4BLUE
+104:55 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+104:55 Score: 2 4
+104:56 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+104:56 Score: 5 2
+104:57 Kill: 3 1 2: ^3Mr.^1Gauntlet killed Visor by MOD_GAUNTLET
+104:57 Score: 3 1
+104:57 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+104:57 Score: 4 2
+105:02 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+105:02 Score: 6 2
+105:07 Kill: 0 6 10: Orbb killed Crash by MOD_RAILGUN
+105:07 Score: 0 1
+105:10 TeamScore: 1 2 ^1RED
+105:10 TeamScore: 2 0 ^4BLUE
+105:13 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+105:13 Score: 7 1
+105:14 Kill: 1 3 10: Visor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+105:14 Score: 1 1
+105:19 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+105:19 Score: 2 5
+105:25 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+105:25 Score: 0 2
+105:26 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+105:26 Score: 2 6
+105:30 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+105:30 Score: 2 7
+105:33 TeamScore: 1 3 ^1RED
+105:33 TeamScore: 2 0 ^4BLUE
+105:37 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+105:37 Score: 7 2
+105:38 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+105:38 Score: 2 8
+105:40 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+105:40 Score: 2 9
+105:48 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+105:48 Score: 6 3
+105:51 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+105:51 Score: 4 3
+105:58 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+105:58 Score: 2 10
+106:01 TeamScore: 1 4 ^1RED
+106:01 TeamScore: 2 0 ^4BLUE
+106:04 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+106:04 Score: 7 3
+106:07 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+106:07 Score: 5 3
+106:09 Kill: 4 5 10: Razor killed Gorre by MOD_RAILGUN
+106:09 Score: 4 4
+106:14 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+106:14 Score: 4 5
+106:15 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+106:15 Score: 1 2
+106:25 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+106:25 Score: 4 6
+106:26 Kill: 1 4 10: Visor killed Razor by MOD_RAILGUN
+106:26 Score: 1 3
+106:29 TeamScore: 1 4 ^1RED
+106:29 TeamScore: 2 1 ^4BLUE
+106:39 Kill: 1 3 10: Visor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+106:39 Score: 1 4
+106:46 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+106:46 Score: 7 4
+106:49 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+106:49 Score: 0 3
+106:51 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+106:51 Score: 2 11
+106:53 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+106:53 Score: 2 12
+106:59 Kill: 2 7 10: ^6L^3akerbo^6T killed Slash by MOD_RAILGUN
+106:59 Score: 2 13
+107:02 TeamScore: 1 5 ^1RED
+107:02 TeamScore: 2 1 ^4BLUE
+107:10 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+107:10 Score: 5 4
+107:13 Kill: 6 4 10: Crash killed Razor by MOD_RAILGUN
+107:13 Score: 6 4
+107:22 Kill: 6 2 10: Crash killed ^6L^3akerbo^6T by MOD_RAILGUN
+107:22 Score: 6 5
+107:24 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+107:24 Score: 0 4
+107:25 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+107:25 Score: 7 5
+107:28 TeamScore: 1 5 ^1RED
+107:28 TeamScore: 2 2 ^4BLUE
+107:33 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+107:33 Score: 2 14
+107:45 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+107:45 Score: 0 5
+107:52 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+107:52 Score: 7 6
+107:53 Kill: 3 7 2: ^3Mr.^1Gauntlet killed Slash by MOD_GAUNTLET
+107:53 Score: 3 2
+107:54 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+107:54 Score: 5 5
+107:58 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+107:58 Score: 2 15
+108:01 TeamScore: 1 6 ^1RED
+108:01 TeamScore: 2 2 ^4BLUE
+108:06 Kill: 4 6 10: Razor killed Crash by MOD_RAILGUN
+108:06 Score: 4 7
+108:09 Kill: 1 3 10: Visor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+108:09 Score: 1 5
+108:09 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+108:09 Score: 5 6
+108:15 Kill: 0 5 10: Orbb killed Gorre by MOD_RAILGUN
+108:15 Score: 0 6
+108:20 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+108:20 Score: 1 6
+108:26 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+108:26 Score: 7 7
+108:29 TeamScore: 1 6 ^1RED
+108:29 TeamScore: 2 3 ^4BLUE
+108:33 Kill: 5 0 10: Gorre killed Orbb by MOD_RAILGUN
+108:33 Score: 5 7
+108:37 Kill: 6 3 10: Crash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+108:37 Score: 6 6
+108:39 Kill: 7 4 10: Slash killed Razor by MOD_RAILGUN
+108:39 Score: 7 8
+108:40 Kill: 2 5 10: ^6L^3akerbo^6T killed Gorre by MOD_RAILGUN
+108:40 Score: 2 16
+108:42 Kill: 1 2 10: Visor killed ^6L^3akerbo^6T by MOD_RAILGUN
+108:42 Score: 1 7
+108:45 TeamScore: 1 6 ^1RED
+108:45 TeamScore: 2 4 ^4BLUE
+108:50 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+108:50 Score: 1 8
+108:53 Kill: 2 1 10: ^6L^3akerbo^6T killed Visor by MOD_RAILGUN
+108:53 Score: 2 17
+108:56 Kill: 2 6 10: ^6L^3akerbo^6T killed Crash by MOD_RAILGUN
+108:56 Score: 2 18
+108:57 Kill: 7 3 10: Slash killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+108:57 Score: 7 9
+109:01 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+109:01 Score: 7 10
+109:04 Kill: 4 7 10: Razor killed Slash by MOD_RAILGUN
+109:04 Score: 4 8
+109:09 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+109:09 Score: 5 8
+109:12 TeamScore: 1 6 ^1RED
+109:12 TeamScore: 2 5 ^4BLUE
+109:17 Kill: 0 1 10: Orbb killed Visor by MOD_RAILGUN
+109:17 Score: 0 7
+109:20 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+109:20 Score: 5 9
+109:22 ClientConnect: 8 \ip\83.30.81.42\guid\24FE65BC6111DD2D2E7D87D4B04433C5\tld\PL\country\Poland
+109:22 ClientUserinfoChanged: 8 n\^4Yadec\t\3\ts\0\model\bones/default\hmodel\bones/default\c\\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+109:22 Kill: 1022 5 16: <world> killed Gorre by MOD_LAVA
+109:22 Score: 5 8
+109:27 ClientGuid: 8 6632AE0924DC6B49CE8AA419BD9BED83
+109:27 ClientUserinfoChanged: 8 n\ExcessivePlayer\t\3\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+109:27 ClientBegin: 8
+109:27 ClientUserinfoChanged: 8 n\^4Yadec\t\3\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+109:28 Kill: 1022 5 0: <world> killed Gorre by MOD_UNKNOWN
+109:29 Kill: 6 4 10: Crash killed Razor by MOD_RAILGUN
+109:29 Score: 6 7
+109:32 Kill: 7 2 10: Slash killed ^6L^3akerbo^6T by MOD_RAILGUN
+109:32 Score: 7 11
+109:34 Kill: 7 0 10: Slash killed Orbb by MOD_RAILGUN
+109:34 Score: 7 12
+109:37 TeamScore: 1 6 ^1RED
+109:37 TeamScore: 2 6 ^4BLUE
+109:41 Kill: 1 0 10: Visor killed Orbb by MOD_RAILGUN
+109:41 Score: 1 9
+109:45 Kill: 1 3 10: Visor killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+109:45 Score: 1 10
+109:50 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+109:50 Score: 5 9
+109:53 ClientBegin: 8
+109:53 ClientUserinfoChanged: 8 n\^4Yadec\t\1\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\0
+109:53 ClientUserinfoChanged: 0 n\Orbb\t\1\ts\0\model\orbb\hmodel\orbb\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+109:53 ClientUserinfoChanged: 8 n\^4Yadec\t\1\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\1
+109:53 ClientDisconnect: 0
+109:53 Weapon_Stats: 0 Railgun:45:7:0:0 Hook:14:0:0:0 Given:1750 Recvd:2500 Armor:0 Health:0 TeamDmg:0
+109:54 Kill: 1022 1 16: <world> killed Visor by MOD_LAVA
+109:54 Score: 1 9
+109:58 ClientBegin: 8
+109:58 ClientUserinfoChanged: 8 n\^4Yadec\t\2\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\1
+109:58 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+109:58 ClientUserinfoChanged: 1 n\Visor\t\2\ts\0\model\visor\hmodel\visor\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+109:58 ClientUserinfoChanged: 8 n\^4Yadec\t\2\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\1
+110:00 Kill: 1022 1 0: <world> killed Visor by MOD_UNKNOWN
+110:02 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+110:02 Score: 5 10
+110:03 ClientDisconnect: 1
+110:03 Weapon_Stats: 1 Railgun:53:10:0:0 Hook:18:0:0:0 Given:2500 Recvd:2400 Armor:0 Health:0 TeamDmg:0
+110:03 Rcon: addbot Sarge 2.000000 red 0
+110:03 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+110:03 ClientUserinfoChanged: 0 n\Sarge\t\1\ts\0\model\sarge\hmodel\sarge\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+110:03 ClientBegin: 0
+110:05 ClientBegin: 8
+110:05 ClientUserinfoChanged: 8 n\^4Yadec\t\1\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\1
+110:05 ClientUserinfoChanged: 5 n\Gorre\t\2\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+110:05 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+110:05 ClientUserinfoChanged: 8 n\^4Yadec\t\1\ts\0\model\anarki/default\hmodel\anarki/default\c\0000\c1\4\c2\5\hc\125\w\0\l\0\tt\0\tl\1
+110:12 Kill: 5 0 10: Gorre killed Sarge by MOD_RAILGUN
+110:12 Score: 5 11
+110:13 Rcon: addbot Sarge 2.000000 blue 0
+110:13 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+110:13 ClientUserinfoChanged: 1 n\Sarge\t\2\ts\0\model\sarge\hmodel\sarge\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+110:13 ClientBegin: 1
+110:13 ClientDisconnect: 0
+110:13 Weapon_Stats: 0 Hook:1:0:0:0 Given:0 Recvd:250 Armor:0 Health:0 TeamDmg:0
+110:15 TeamScore: 1 6 ^1RED
+110:15 TeamScore: 2 7 ^4BLUE
+110:19 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+110:19 Score: 5 12
+110:25 sayteam: Sarge: Who is the team leader 1
+110:26 Kill: 5 2 10: Gorre killed ^6L^3akerbo^6T by MOD_RAILGUN
+110:26 Score: 5 13
+110:27 Kill: 5 3 10: Gorre killed ^3Mr.^1Gauntlet by MOD_RAILGUN
+110:27 Score: 5 14
+110:27 sayteam: Gorre: I'm the team leader 5
+110:31 ClientDisconnect: 8
+110:31 Weapon_Stats: 8 Railgun:1:0:0:0 Given:0 Recvd:0 Armor:0 Health:0 TeamDmg:0
+110:31 ClientUserinfoChanged: 2 n\^6L^3akerbo^6T\t\1\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\1
+110:33 TeamScore: 1 6 ^1RED
+110:33 TeamScore: 2 8 ^4BLUE
+110:33 Rcon: addbot Wrack 2.000000 red 0
+110:33 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+110:33 ClientUserinfoChanged: 0 n\Wrack\t\1\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\125\w\0\l\0\skill\2\tt\0\tl\0
+110:33 ClientBegin: 0
+110:36 Kill: 5 4 10: Gorre killed Razor by MOD_RAILGUN
+110:36 Score: 5 15
+110:39 Kill: 5 0 10: Gorre killed Wrack by MOD_RAILGUN
+11

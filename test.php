@@ -5,7 +5,7 @@ use CC\QuakeParser\Parser;
 
 // error_reporting(0);
 
-$p = new Parser(__DIR__ . '/freeze.log');
+$p = new Parser('/root/.q3a/excessiveplus/server.log');
 
 
 foreach($p as $t)
